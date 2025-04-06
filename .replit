@@ -1,4 +1,4 @@
-modules = ["python-3.12"]
+modules = ["python-3.12", "nix"]
 run = "streamlit run undefined"
 
 [nix]
@@ -30,4 +30,4 @@ localPort = 5000
 externalPort = 80
 
 [deployment]
-run = ["sh", "-c", "streamlit run scc.py --server.address=0.0.0.0 --server.port=5000"]
+run = ["sh", "-c", "streamlit run undefined"]
