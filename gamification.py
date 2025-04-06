@@ -42,7 +42,7 @@ class BadgeSystem:
 
                     # Show popup only for newly earned badges
                     if badge['name'] not in previous_badges:
-                        show_completion_popup(badge['image'], duration=3)
+                        show_completion_popup(badge['image'])
 
         self._previous_badges = current_badges
         return earned_badges

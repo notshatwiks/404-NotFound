@@ -1,0 +1,1001 @@
+datetime,date,time,month,week,category,amount,description,type
+2024-01-01 20:35:37,2024-01-01,20:35:37,January 2024,Week 1,Dining Out,124.61,Dining Out expense,want
+2024-01-01 20:50:45,2024-01-01,20:50:45,January 2024,Week 1,Groceries,191.92,Groceries expense,need
+2024-01-02 06:57:56,2024-01-02,06:57:56,January 2024,Week 1,Subscriptions,49.87,Subscriptions expense,want
+2024-01-02 15:16:20,2024-01-02,15:16:20,January 2024,Week 1,Groceries,482.77,Groceries expense,need
+2024-01-02 16:13:20,2024-01-02,16:13:20,January 2024,Week 1,Rent,1164.32,Rent expense,need
+2024-01-03 10:10:06,2024-01-03,10:10:06,January 2024,Week 1,Travel,65.15,Travel expense,want
+2024-01-03 21:05:41,2024-01-03,21:05:41,January 2024,Week 1,Shopping,448.4,Shopping expense,want
+2024-01-04 01:09:31,2024-01-04,01:09:31,January 2024,Week 1,Subscriptions,16.56,Subscriptions expense,want
+2024-01-04 03:19:02,2024-01-04,03:19:02,January 2024,Week 1,Subscriptions,46.48,Subscriptions expense,want
+2024-01-04 06:16:32,2024-01-04,06:16:32,January 2024,Week 1,Dining Out,30.94,Dining Out expense,want
+2024-01-04 12:52:42,2024-01-04,12:52:42,January 2024,Week 1,Groceries,367.25,Groceries expense,need
+2024-01-04 14:00:36,2024-01-04,14:00:36,January 2024,Week 1,Food Delivery,25.62,Food Delivery expense,want
+2024-01-04 23:56:12,2024-01-04,23:56:12,January 2024,Week 1,Travel,168.51,Travel expense,want
+2024-01-05 03:01:25,2024-01-05,03:01:25,January 2024,Week 1,Rent,1950.6,Rent expense,need
+2024-01-05 17:28:22,2024-01-05,17:28:22,January 2024,Week 1,Entertainment,137.08,Entertainment expense,want
+2024-01-05 21:55:15,2024-01-05,21:55:15,January 2024,Week 1,Healthcare,232.11,Healthcare expense,need
+2024-01-06 01:39:41,2024-01-06,01:39:41,January 2024,Week 1,Groceries,216.62,Groceries expense,need
+2024-01-06 07:31:23,2024-01-06,07:31:23,January 2024,Week 1,Transport,425.82,Transport expense,need
+2024-01-06 21:44:33,2024-01-06,21:44:33,January 2024,Week 1,Subscriptions,48.28,Subscriptions expense,want
+2024-01-08 18:49:25,2024-01-08,18:49:25,January 2024,Week 2,Rent,1726.2,Rent expense,need
+2024-01-10 03:03:17,2024-01-10,03:03:17,January 2024,Week 2,Dining Out,42.5,Dining Out expense,want
+2024-01-10 04:40:37,2024-01-10,04:40:37,January 2024,Week 2,Entertainment,125.49,Entertainment expense,want
+2024-01-10 16:01:19,2024-01-10,16:01:19,January 2024,Week 2,Utilities,206.43,Utilities expense,need
+2024-01-11 00:01:06,2024-01-11,00:01:06,January 2024,Week 2,Utilities,124.41,Utilities expense,need
+2024-01-11 09:41:24,2024-01-11,09:41:24,January 2024,Week 2,Shopping,95.38,Shopping expense,want
+2024-01-12 04:19:51,2024-01-12,04:19:51,January 2024,Week 2,Travel,737.33,Travel expense,want
+2024-01-12 06:45:17,2024-01-12,06:45:17,January 2024,Week 2,Food Delivery,73.27,Food Delivery expense,want
+2024-01-12 19:32:42,2024-01-12,19:32:42,January 2024,Week 2,Entertainment,96.37,Entertainment expense,want
+2024-01-12 21:35:53,2024-01-12,21:35:53,January 2024,Week 2,Rent,1055.06,Rent expense,need
+2024-01-14 18:48:23,2024-01-14,18:48:23,January 2024,Week 2,Food Delivery,92.85,Food Delivery expense,want
+2024-01-14 20:12:09,2024-01-14,20:12:09,January 2024,Week 2,Rent,1309.82,Rent expense,need
+2024-01-15 07:59:41,2024-01-15,07:59:41,January 2024,Week 3,Subscriptions,16.3,Subscriptions expense,want
+2024-01-16 14:13:24,2024-01-16,14:13:24,January 2024,Week 3,Transport,383.95,Transport expense,need
+2024-01-16 19:08:09,2024-01-16,19:08:09,January 2024,Week 3,Food Delivery,78.23,Food Delivery expense,want
+2024-01-17 09:20:40,2024-01-17,09:20:40,January 2024,Week 3,Rent,1623.91,Rent expense,need
+2024-01-17 13:33:26,2024-01-17,13:33:26,January 2024,Week 3,Entertainment,103.02,Entertainment expense,want
+2024-01-17 14:29:47,2024-01-17,14:29:47,January 2024,Week 3,Subscriptions,36.49,Subscriptions expense,want
+2024-01-18 00:13:26,2024-01-18,00:13:26,January 2024,Week 3,Groceries,141.45,Groceries expense,need
+2024-01-19 23:32:06,2024-01-19,23:32:06,January 2024,Week 3,Transport,238.86,Transport expense,need
+2024-01-22 12:10:43,2024-01-22,12:10:43,January 2024,Week 4,Utilities,238.47,Utilities expense,need
+2024-01-24 00:12:24,2024-01-24,00:12:24,January 2024,Week 4,Entertainment,246.07,Entertainment expense,want
+2024-01-24 00:17:26,2024-01-24,00:17:26,January 2024,Week 4,Groceries,318.72,Groceries expense,need
+2024-01-24 07:43:55,2024-01-24,07:43:55,January 2024,Week 4,Dining Out,36.41,Dining Out expense,want
+2024-01-25 02:14:29,2024-01-25,02:14:29,January 2024,Week 4,Transport,382.81,Transport expense,need
+2024-01-25 13:28:28,2024-01-25,13:28:28,January 2024,Week 4,Groceries,163.3,Groceries expense,need
+2024-01-25 19:23:34,2024-01-25,19:23:34,January 2024,Week 4,Food Delivery,8.24,Food Delivery expense,want
+2024-01-25 22:28:06,2024-01-25,22:28:06,January 2024,Week 4,Healthcare,23.52,Healthcare expense,need
+2024-01-25 22:34:13,2024-01-25,22:34:13,January 2024,Week 4,Groceries,491.11,Groceries expense,need
+2024-01-26 01:31:54,2024-01-26,01:31:54,January 2024,Week 4,Food Delivery,7.04,Food Delivery expense,want
+2024-01-27 04:47:34,2024-01-27,04:47:34,January 2024,Week 4,Groceries,394.37,Groceries expense,need
+2024-01-27 10:14:08,2024-01-27,10:14:08,January 2024,Week 4,Subscriptions,42.39,Subscriptions expense,want
+2024-01-27 12:15:46,2024-01-27,12:15:46,January 2024,Week 4,Travel,287.89,Travel expense,want
+2024-01-28 13:47:25,2024-01-28,13:47:25,January 2024,Week 4,Rent,967.5,Rent expense,need
+2024-01-28 14:54:35,2024-01-28,14:54:35,January 2024,Week 4,Entertainment,22.49,Entertainment expense,want
+2024-01-29 01:21:08,2024-01-29,01:21:08,January 2024,Week 5,Shopping,258.65,Shopping expense,want
+2024-01-29 03:53:46,2024-01-29,03:53:46,January 2024,Week 5,Groceries,103.06,Groceries expense,need
+2024-01-29 10:14:35,2024-01-29,10:14:35,January 2024,Week 5,Subscriptions,46.67,Subscriptions expense,want
+2024-01-29 11:05:14,2024-01-29,11:05:14,January 2024,Week 5,Subscriptions,18.05,Subscriptions expense,want
+2024-01-29 12:58:04,2024-01-29,12:58:04,January 2024,Week 5,Entertainment,57.43,Entertainment expense,want
+2024-01-29 14:32:46,2024-01-29,14:32:46,January 2024,Week 5,Rent,610.76,Rent expense,need
+2024-01-30 00:30:36,2024-01-30,00:30:36,January 2024,Week 5,Transport,126.3,Transport expense,need
+2024-01-30 07:44:52,2024-01-30,07:44:52,January 2024,Week 5,Groceries,428.4,Groceries expense,need
+2024-01-30 22:18:44,2024-01-30,22:18:44,January 2024,Week 5,Shopping,420.42,Shopping expense,want
+2024-01-30 23:34:27,2024-01-30,23:34:27,January 2024,Week 5,Utilities,287.15,Utilities expense,need
+2024-01-31 12:36:20,2024-01-31,12:36:20,January 2024,Week 5,Entertainment,115.6,Entertainment expense,want
+2024-01-31 14:55:07,2024-01-31,14:55:07,January 2024,Week 5,Subscriptions,11.12,Subscriptions expense,want
+2024-02-01 17:42:42,2024-02-01,17:42:42,February 2024,Week 5,Utilities,239.25,Utilities expense,need
+2024-02-01 18:03:54,2024-02-01,18:03:54,February 2024,Week 5,Subscriptions,38.18,Subscriptions expense,want
+2024-02-01 18:28:21,2024-02-01,18:28:21,February 2024,Week 5,Subscriptions,14.82,Subscriptions expense,want
+2024-02-02 03:41:36,2024-02-02,03:41:36,February 2024,Week 5,Entertainment,183.64,Entertainment expense,want
+2024-02-03 08:21:29,2024-02-03,08:21:29,February 2024,Week 5,Utilities,85.21,Utilities expense,need
+2024-02-03 17:45:48,2024-02-03,17:45:48,February 2024,Week 5,Transport,369.6,Transport expense,need
+2024-02-03 20:15:56,2024-02-03,20:15:56,February 2024,Week 5,Utilities,190.68,Utilities expense,need
+2024-02-04 04:23:10,2024-02-04,04:23:10,February 2024,Week 5,Food Delivery,19.97,Food Delivery expense,want
+2024-02-04 04:59:39,2024-02-04,04:59:39,February 2024,Week 5,Dining Out,162.49,Dining Out expense,want
+2024-02-05 10:33:49,2024-02-05,10:33:49,February 2024,Week 6,Utilities,171.65,Utilities expense,need
+2024-02-05 17:15:25,2024-02-05,17:15:25,February 2024,Week 6,Healthcare,142.67,Healthcare expense,need
+2024-02-06 00:41:21,2024-02-06,00:41:21,February 2024,Week 6,Travel,297.27,Travel expense,want
+2024-02-06 09:16:18,2024-02-06,09:16:18,February 2024,Week 6,Food Delivery,73.12,Food Delivery expense,want
+2024-02-07 00:02:24,2024-02-07,00:02:24,February 2024,Week 6,Travel,826.35,Travel expense,want
+2024-02-07 00:25:51,2024-02-07,00:25:51,February 2024,Week 6,Groceries,179.93,Groceries expense,need
+2024-02-07 05:55:43,2024-02-07,05:55:43,February 2024,Week 6,Shopping,430.91,Shopping expense,want
+2024-02-08 07:40:28,2024-02-08,07:40:28,February 2024,Week 6,Utilities,205.31,Utilities expense,need
+2024-02-08 11:23:21,2024-02-08,11:23:21,February 2024,Week 6,Subscriptions,17.25,Subscriptions expense,want
+2024-02-08 13:48:52,2024-02-08,13:48:52,February 2024,Week 6,Food Delivery,74.13,Food Delivery expense,want
+2024-02-09 02:03:18,2024-02-09,02:03:18,February 2024,Week 6,Rent,1212.81,Rent expense,need
+2024-02-09 08:12:17,2024-02-09,08:12:17,February 2024,Week 6,Entertainment,87.72,Entertainment expense,want
+2024-02-09 16:14:18,2024-02-09,16:14:18,February 2024,Week 6,Subscriptions,24.2,Subscriptions expense,want
+2024-02-11 04:30:43,2024-02-11,04:30:43,February 2024,Week 6,Subscriptions,11.18,Subscriptions expense,want
+2024-02-11 13:39:31,2024-02-11,13:39:31,February 2024,Week 6,Travel,607.7,Travel expense,want
+2024-02-11 15:05:40,2024-02-11,15:05:40,February 2024,Week 6,Subscriptions,14.58,Subscriptions expense,want
+2024-02-12 00:07:13,2024-02-12,00:07:13,February 2024,Week 7,Dining Out,183.63,Dining Out expense,want
+2024-02-12 01:01:57,2024-02-12,01:01:57,February 2024,Week 7,Healthcare,91.66,Healthcare expense,need
+2024-02-12 03:54:41,2024-02-12,03:54:41,February 2024,Week 7,Shopping,396.26,Shopping expense,want
+2024-02-12 05:52:41,2024-02-12,05:52:41,February 2024,Week 7,Rent,1140.41,Rent expense,need
+2024-02-12 12:30:16,2024-02-12,12:30:16,February 2024,Week 7,Dining Out,46.26,Dining Out expense,want
+2024-02-12 16:40:15,2024-02-12,16:40:15,February 2024,Week 7,Subscriptions,25.75,Subscriptions expense,want
+2024-02-12 18:41:35,2024-02-12,18:41:35,February 2024,Week 7,Groceries,158.63,Groceries expense,need
+2024-02-13 03:26:26,2024-02-13,03:26:26,February 2024,Week 7,Groceries,367.5,Groceries expense,need
+2024-02-13 08:03:57,2024-02-13,08:03:57,February 2024,Week 7,Healthcare,238.09,Healthcare expense,need
+2024-02-13 10:40:46,2024-02-13,10:40:46,February 2024,Week 7,Entertainment,22.93,Entertainment expense,want
+2024-02-13 12:01:06,2024-02-13,12:01:06,February 2024,Week 7,Dining Out,48.59,Dining Out expense,want
+2024-02-15 04:11:20,2024-02-15,04:11:20,February 2024,Week 7,Rent,1557.1,Rent expense,need
+2024-02-15 22:45:33,2024-02-15,22:45:33,February 2024,Week 7,Rent,1411.67,Rent expense,need
+2024-02-16 01:44:01,2024-02-16,01:44:01,February 2024,Week 7,Food Delivery,94.36,Food Delivery expense,want
+2024-02-16 07:49:07,2024-02-16,07:49:07,February 2024,Week 7,Healthcare,21.0,Healthcare expense,need
+2024-02-16 10:24:41,2024-02-16,10:24:41,February 2024,Week 7,Groceries,190.0,Groceries expense,need
+2024-02-17 12:06:05,2024-02-17,12:06:05,February 2024,Week 7,Transport,193.07,Transport expense,need
+2024-02-17 16:15:10,2024-02-17,16:15:10,February 2024,Week 7,Subscriptions,5.38,Subscriptions expense,want
+2024-02-17 21:17:44,2024-02-17,21:17:44,February 2024,Week 7,Travel,984.29,Travel expense,want
+2024-02-18 00:46:45,2024-02-18,00:46:45,February 2024,Week 7,Subscriptions,45.91,Subscriptions expense,want
+2024-02-18 10:01:32,2024-02-18,10:01:32,February 2024,Week 7,Travel,292.36,Travel expense,want
+2024-02-18 11:20:50,2024-02-18,11:20:50,February 2024,Week 7,Healthcare,258.52,Healthcare expense,need
+2024-02-19 01:41:07,2024-02-19,01:41:07,February 2024,Week 8,Rent,1365.43,Rent expense,need
+2024-02-19 02:20:52,2024-02-19,02:20:52,February 2024,Week 8,Food Delivery,74.29,Food Delivery expense,want
+2024-02-19 17:27:32,2024-02-19,17:27:32,February 2024,Week 8,Travel,880.76,Travel expense,want
+2024-02-20 05:33:40,2024-02-20,05:33:40,February 2024,Week 8,Food Delivery,41.67,Food Delivery expense,want
+2024-02-21 10:15:56,2024-02-21,10:15:56,February 2024,Week 8,Transport,384.56,Transport expense,need
+2024-02-23 19:43:26,2024-02-23,19:43:26,February 2024,Week 8,Healthcare,123.6,Healthcare expense,need
+2024-02-25 18:55:27,2024-02-25,18:55:27,February 2024,Week 8,Dining Out,118.61,Dining Out expense,want
+2024-02-26 01:13:31,2024-02-26,01:13:31,February 2024,Week 9,Shopping,403.54,Shopping expense,want
+2024-02-26 03:04:50,2024-02-26,03:04:50,February 2024,Week 9,Transport,215.44,Transport expense,need
+2024-02-26 08:56:49,2024-02-26,08:56:49,February 2024,Week 9,Travel,137.09,Travel expense,want
+2024-02-26 13:45:40,2024-02-26,13:45:40,February 2024,Week 9,Subscriptions,10.73,Subscriptions expense,want
+2024-02-26 21:24:09,2024-02-26,21:24:09,February 2024,Week 9,Rent,1072.12,Rent expense,need
+2024-02-27 03:27:57,2024-02-27,03:27:57,February 2024,Week 9,Healthcare,125.89,Healthcare expense,need
+2024-02-27 05:36:01,2024-02-27,05:36:01,February 2024,Week 9,Food Delivery,17.44,Food Delivery expense,want
+2024-02-28 02:35:50,2024-02-28,02:35:50,February 2024,Week 9,Healthcare,100.16,Healthcare expense,need
+2024-02-29 07:19:39,2024-02-29,07:19:39,February 2024,Week 9,Dining Out,43.4,Dining Out expense,want
+2024-02-29 14:40:52,2024-02-29,14:40:52,February 2024,Week 9,Entertainment,191.59,Entertainment expense,want
+2024-02-29 21:11:19,2024-02-29,21:11:19,February 2024,Week 9,Subscriptions,28.36,Subscriptions expense,want
+2024-03-02 00:30:12,2024-03-02,00:30:12,March 2024,Week 9,Groceries,394.5,Groceries expense,need
+2024-03-02 06:03:39,2024-03-02,06:03:39,March 2024,Week 9,Travel,814.56,Travel expense,want
+2024-03-02 23:25:13,2024-03-02,23:25:13,March 2024,Week 9,Subscriptions,27.84,Subscriptions expense,want
+2024-03-03 05:14:28,2024-03-03,05:14:28,March 2024,Week 9,Transport,382.29,Transport expense,need
+2024-03-03 08:56:29,2024-03-03,08:56:29,March 2024,Week 9,Groceries,322.58,Groceries expense,need
+2024-03-03 19:19:12,2024-03-03,19:19:12,March 2024,Week 9,Travel,306.07,Travel expense,want
+2024-03-03 20:36:41,2024-03-03,20:36:41,March 2024,Week 9,Shopping,470.25,Shopping expense,want
+2024-03-04 05:01:22,2024-03-04,05:01:22,March 2024,Week 10,Transport,78.94,Transport expense,need
+2024-03-04 15:00:52,2024-03-04,15:00:52,March 2024,Week 10,Rent,1762.66,Rent expense,need
+2024-03-05 05:08:01,2024-03-05,05:08:01,March 2024,Week 10,Shopping,408.38,Shopping expense,want
+2024-03-05 08:41:15,2024-03-05,08:41:15,March 2024,Week 10,Utilities,272.05,Utilities expense,need
+2024-03-06 00:45:15,2024-03-06,00:45:15,March 2024,Week 10,Shopping,86.74,Shopping expense,want
+2024-03-06 00:52:19,2024-03-06,00:52:19,March 2024,Week 10,Shopping,333.6,Shopping expense,want
+2024-03-09 02:25:41,2024-03-09,02:25:41,March 2024,Week 10,Groceries,450.52,Groceries expense,need
+2024-03-11 13:12:16,2024-03-11,13:12:16,March 2024,Week 11,Transport,295.03,Transport expense,need
+2024-03-11 17:03:43,2024-03-11,17:03:43,March 2024,Week 11,Healthcare,64.3,Healthcare expense,need
+2024-03-11 19:46:22,2024-03-11,19:46:22,March 2024,Week 11,Subscriptions,47.23,Subscriptions expense,want
+2024-03-12 11:17:02,2024-03-12,11:17:02,March 2024,Week 11,Food Delivery,34.51,Food Delivery expense,want
+2024-03-13 02:45:31,2024-03-13,02:45:31,March 2024,Week 11,Groceries,84.44,Groceries expense,need
+2024-03-13 03:40:51,2024-03-13,03:40:51,March 2024,Week 11,Utilities,209.11,Utilities expense,need
+2024-03-13 04:39:44,2024-03-13,04:39:44,March 2024,Week 11,Food Delivery,28.29,Food Delivery expense,want
+2024-03-13 05:34:44,2024-03-13,05:34:44,March 2024,Week 11,Subscriptions,10.74,Subscriptions expense,want
+2024-03-13 09:22:26,2024-03-13,09:22:26,March 2024,Week 11,Utilities,260.36,Utilities expense,need
+2024-03-13 14:50:24,2024-03-13,14:50:24,March 2024,Week 11,Rent,1140.18,Rent expense,need
+2024-03-13 16:00:44,2024-03-13,16:00:44,March 2024,Week 11,Subscriptions,27.71,Subscriptions expense,want
+2024-03-14 04:22:45,2024-03-14,04:22:45,March 2024,Week 11,Dining Out,30.01,Dining Out expense,want
+2024-03-14 09:12:44,2024-03-14,09:12:44,March 2024,Week 11,Food Delivery,6.83,Food Delivery expense,want
+2024-03-14 10:24:25,2024-03-14,10:24:25,March 2024,Week 11,Utilities,150.35,Utilities expense,need
+2024-03-14 17:23:45,2024-03-14,17:23:45,March 2024,Week 11,Groceries,344.82,Groceries expense,need
+2024-03-15 01:14:44,2024-03-15,01:14:44,March 2024,Week 11,Transport,314.36,Transport expense,need
+2024-03-15 01:22:58,2024-03-15,01:22:58,March 2024,Week 11,Healthcare,252.31,Healthcare expense,need
+2024-03-15 06:34:05,2024-03-15,06:34:05,March 2024,Week 11,Rent,662.49,Rent expense,need
+2024-03-15 12:54:08,2024-03-15,12:54:08,March 2024,Week 11,Shopping,237.17,Shopping expense,want
+2024-03-15 23:56:23,2024-03-15,23:56:23,March 2024,Week 11,Groceries,320.82,Groceries expense,need
+2024-03-16 19:06:16,2024-03-16,19:06:16,March 2024,Week 11,Rent,1446.34,Rent expense,need
+2024-03-17 13:46:22,2024-03-17,13:46:22,March 2024,Week 11,Food Delivery,51.49,Food Delivery expense,want
+2024-03-18 21:04:58,2024-03-18,21:04:58,March 2024,Week 12,Healthcare,60.71,Healthcare expense,need
+2024-03-19 19:47:30,2024-03-19,19:47:30,March 2024,Week 12,Entertainment,26.74,Entertainment expense,want
+2024-03-19 21:38:44,2024-03-19,21:38:44,March 2024,Week 12,Food Delivery,17.8,Food Delivery expense,want
+2024-03-21 01:16:56,2024-03-21,01:16:56,March 2024,Week 12,Travel,630.48,Travel expense,want
+2024-03-21 04:06:35,2024-03-21,04:06:35,March 2024,Week 12,Rent,695.25,Rent expense,need
+2024-03-21 12:39:13,2024-03-21,12:39:13,March 2024,Week 12,Utilities,199.53,Utilities expense,need
+2024-03-21 18:01:53,2024-03-21,18:01:53,March 2024,Week 12,Shopping,412.7,Shopping expense,want
+2024-03-21 22:46:30,2024-03-21,22:46:30,March 2024,Week 12,Groceries,435.98,Groceries expense,need
+2024-03-22 03:03:25,2024-03-22,03:03:25,March 2024,Week 12,Shopping,209.0,Shopping expense,want
+2024-03-22 23:26:11,2024-03-22,23:26:11,March 2024,Week 12,Transport,81.32,Transport expense,need
+2024-03-24 00:27:57,2024-03-24,00:27:57,March 2024,Week 12,Entertainment,75.52,Entertainment expense,want
+2024-03-24 05:40:40,2024-03-24,05:40:40,March 2024,Week 12,Rent,1360.75,Rent expense,need
+2024-03-24 14:39:29,2024-03-24,14:39:29,March 2024,Week 12,Dining Out,101.19,Dining Out expense,want
+2024-03-24 17:54:21,2024-03-24,17:54:21,March 2024,Week 12,Dining Out,105.55,Dining Out expense,want
+2024-03-25 02:44:11,2024-03-25,02:44:11,March 2024,Week 13,Groceries,277.07,Groceries expense,need
+2024-03-25 03:01:54,2024-03-25,03:01:54,March 2024,Week 13,Groceries,250.55,Groceries expense,need
+2024-03-25 14:37:25,2024-03-25,14:37:25,March 2024,Week 13,Travel,449.5,Travel expense,want
+2024-03-25 22:01:32,2024-03-25,22:01:32,March 2024,Week 13,Rent,1997.37,Rent expense,need
+2024-03-27 20:10:13,2024-03-27,20:10:13,March 2024,Week 13,Shopping,396.36,Shopping expense,want
+2024-03-28 01:42:37,2024-03-28,01:42:37,March 2024,Week 13,Transport,469.05,Transport expense,need
+2024-03-28 17:35:02,2024-03-28,17:35:02,March 2024,Week 13,Dining Out,67.92,Dining Out expense,want
+2024-03-28 23:22:52,2024-03-28,23:22:52,March 2024,Week 13,Subscriptions,30.55,Subscriptions expense,want
+2024-03-29 03:18:01,2024-03-29,03:18:01,March 2024,Week 13,Entertainment,181.85,Entertainment expense,want
+2024-03-30 05:28:12,2024-03-30,05:28:12,March 2024,Week 13,Utilities,199.42,Utilities expense,need
+2024-03-31 00:49:16,2024-03-31,00:49:16,March 2024,Week 13,Travel,813.41,Travel expense,want
+2024-03-31 12:47:27,2024-03-31,12:47:27,March 2024,Week 13,Entertainment,123.49,Entertainment expense,want
+2024-03-31 19:48:45,2024-03-31,19:48:45,March 2024,Week 13,Dining Out,111.52,Dining Out expense,want
+2024-04-01 02:57:56,2024-04-01,02:57:56,April 2024,Week 14,Dining Out,162.19,Dining Out expense,want
+2024-04-01 09:53:59,2024-04-01,09:53:59,April 2024,Week 14,Healthcare,263.52,Healthcare expense,need
+2024-04-01 12:08:50,2024-04-01,12:08:50,April 2024,Week 14,Food Delivery,14.28,Food Delivery expense,want
+2024-04-02 01:51:40,2024-04-02,01:51:40,April 2024,Week 14,Transport,154.26,Transport expense,need
+2024-04-02 07:10:17,2024-04-02,07:10:17,April 2024,Week 14,Travel,80.67,Travel expense,want
+2024-04-02 07:57:30,2024-04-02,07:57:30,April 2024,Week 14,Dining Out,102.13,Dining Out expense,want
+2024-04-02 09:34:13,2024-04-02,09:34:13,April 2024,Week 14,Entertainment,64.31,Entertainment expense,want
+2024-04-02 11:57:19,2024-04-02,11:57:19,April 2024,Week 14,Groceries,434.55,Groceries expense,need
+2024-04-02 22:39:03,2024-04-02,22:39:03,April 2024,Week 14,Groceries,205.21,Groceries expense,need
+2024-04-03 10:59:45,2024-04-03,10:59:45,April 2024,Week 14,Subscriptions,48.91,Subscriptions expense,want
+2024-04-03 13:07:53,2024-04-03,13:07:53,April 2024,Week 14,Subscriptions,49.83,Subscriptions expense,want
+2024-04-03 22:33:45,2024-04-03,22:33:45,April 2024,Week 14,Food Delivery,50.31,Food Delivery expense,want
+2024-04-04 17:47:31,2024-04-04,17:47:31,April 2024,Week 14,Healthcare,181.46,Healthcare expense,need
+2024-04-04 20:39:45,2024-04-04,20:39:45,April 2024,Week 14,Subscriptions,27.77,Subscriptions expense,want
+2024-04-05 08:02:25,2024-04-05,08:02:25,April 2024,Week 14,Entertainment,182.18,Entertainment expense,want
+2024-04-06 02:12:11,2024-04-06,02:12:11,April 2024,Week 14,Shopping,451.71,Shopping expense,want
+2024-04-06 09:23:37,2024-04-06,09:23:37,April 2024,Week 14,Food Delivery,12.45,Food Delivery expense,want
+2024-04-07 11:43:24,2024-04-07,11:43:24,April 2024,Week 14,Entertainment,153.14,Entertainment expense,want
+2024-04-07 12:38:14,2024-04-07,12:38:14,April 2024,Week 14,Shopping,401.05,Shopping expense,want
+2024-04-08 03:36:53,2024-04-08,03:36:53,April 2024,Week 15,Rent,1995.82,Rent expense,need
+2024-04-08 21:08:15,2024-04-08,21:08:15,April 2024,Week 15,Shopping,246.16,Shopping expense,want
+2024-04-09 16:32:27,2024-04-09,16:32:27,April 2024,Week 15,Shopping,462.91,Shopping expense,want
+2024-04-10 02:49:46,2024-04-10,02:49:46,April 2024,Week 15,Shopping,219.05,Shopping expense,want
+2024-04-10 06:56:06,2024-04-10,06:56:06,April 2024,Week 15,Transport,419.98,Transport expense,need
+2024-04-10 15:01:22,2024-04-10,15:01:22,April 2024,Week 15,Transport,469.22,Transport expense,need
+2024-04-10 15:04:49,2024-04-10,15:04:49,April 2024,Week 15,Subscriptions,18.31,Subscriptions expense,want
+2024-04-11 12:26:34,2024-04-11,12:26:34,April 2024,Week 15,Travel,675.74,Travel expense,want
+2024-04-11 21:11:32,2024-04-11,21:11:32,April 2024,Week 15,Transport,246.33,Transport expense,need
+2024-04-12 07:41:38,2024-04-12,07:41:38,April 2024,Week 15,Food Delivery,33.02,Food Delivery expense,want
+2024-04-13 10:01:21,2024-04-13,10:01:21,April 2024,Week 15,Entertainment,61.42,Entertainment expense,want
+2024-04-13 13:02:32,2024-04-13,13:02:32,April 2024,Week 15,Utilities,199.03,Utilities expense,need
+2024-04-13 15:36:27,2024-04-13,15:36:27,April 2024,Week 15,Subscriptions,32.81,Subscriptions expense,want
+2024-04-13 16:18:40,2024-04-13,16:18:40,April 2024,Week 15,Transport,251.09,Transport expense,need
+2024-04-13 23:56:52,2024-04-13,23:56:52,April 2024,Week 15,Subscriptions,42.56,Subscriptions expense,want
+2024-04-14 02:44:05,2024-04-14,02:44:05,April 2024,Week 15,Transport,428.11,Transport expense,need
+2024-04-14 07:21:31,2024-04-14,07:21:31,April 2024,Week 15,Travel,545.96,Travel expense,want
+2024-04-14 17:42:06,2024-04-14,17:42:06,April 2024,Week 15,Travel,579.9,Travel expense,want
+2024-04-14 21:26:48,2024-04-14,21:26:48,April 2024,Week 15,Dining Out,77.31,Dining Out expense,want
+2024-04-14 21:47:50,2024-04-14,21:47:50,April 2024,Week 15,Rent,928.34,Rent expense,need
+2024-04-15 15:07:48,2024-04-15,15:07:48,April 2024,Week 16,Dining Out,152.8,Dining Out expense,want
+2024-04-17 03:32:03,2024-04-17,03:32:03,April 2024,Week 16,Subscriptions,48.26,Subscriptions expense,want
+2024-04-17 07:56:47,2024-04-17,07:56:47,April 2024,Week 16,Transport,387.78,Transport expense,need
+2024-04-17 17:28:19,2024-04-17,17:28:19,April 2024,Week 16,Food Delivery,13.65,Food Delivery expense,want
+2024-04-17 23:35:03,2024-04-17,23:35:03,April 2024,Week 16,Healthcare,60.72,Healthcare expense,need
+2024-04-18 02:47:56,2024-04-18,02:47:56,April 2024,Week 16,Healthcare,106.33,Healthcare expense,need
+2024-04-18 10:40:15,2024-04-18,10:40:15,April 2024,Week 16,Rent,1344.93,Rent expense,need
+2024-04-19 08:54:54,2024-04-19,08:54:54,April 2024,Week 16,Subscriptions,21.27,Subscriptions expense,want
+2024-04-19 10:27:01,2024-04-19,10:27:01,April 2024,Week 16,Utilities,58.3,Utilities expense,need
+2024-04-19 11:33:04,2024-04-19,11:33:04,April 2024,Week 16,Entertainment,39.79,Entertainment expense,want
+2024-04-19 11:41:25,2024-04-19,11:41:25,April 2024,Week 16,Shopping,274.36,Shopping expense,want
+2024-04-19 15:32:18,2024-04-19,15:32:18,April 2024,Week 16,Travel,969.44,Travel expense,want
+2024-04-20 14:47:14,2024-04-20,14:47:14,April 2024,Week 16,Dining Out,149.17,Dining Out expense,want
+2024-04-21 01:29:09,2024-04-21,01:29:09,April 2024,Week 16,Rent,1968.28,Rent expense,need
+2024-04-22 07:44:42,2024-04-22,07:44:42,April 2024,Week 17,Food Delivery,88.58,Food Delivery expense,want
+2024-04-23 07:17:41,2024-04-23,07:17:41,April 2024,Week 17,Subscriptions,36.67,Subscriptions expense,want
+2024-04-24 00:56:13,2024-04-24,00:56:13,April 2024,Week 17,Dining Out,71.43,Dining Out expense,want
+2024-04-24 13:58:07,2024-04-24,13:58:07,April 2024,Week 17,Dining Out,104.82,Dining Out expense,want
+2024-04-24 15:11:23,2024-04-24,15:11:23,April 2024,Week 17,Entertainment,190.77,Entertainment expense,want
+2024-04-25 04:07:08,2024-04-25,04:07:08,April 2024,Week 17,Subscriptions,39.81,Subscriptions expense,want
+2024-04-25 14:33:28,2024-04-25,14:33:28,April 2024,Week 17,Groceries,360.98,Groceries expense,need
+2024-04-25 23:40:28,2024-04-25,23:40:28,April 2024,Week 17,Healthcare,68.14,Healthcare expense,need
+2024-04-26 07:58:06,2024-04-26,07:58:06,April 2024,Week 17,Rent,963.95,Rent expense,need
+2024-04-26 08:41:34,2024-04-26,08:41:34,April 2024,Week 17,Dining Out,149.77,Dining Out expense,want
+2024-04-27 13:37:37,2024-04-27,13:37:37,April 2024,Week 17,Dining Out,63.4,Dining Out expense,want
+2024-04-28 05:48:30,2024-04-28,05:48:30,April 2024,Week 17,Transport,468.91,Transport expense,need
+2024-04-28 14:18:16,2024-04-28,14:18:16,April 2024,Week 17,Transport,202.53,Transport expense,need
+2024-04-29 13:46:51,2024-04-29,13:46:51,April 2024,Week 18,Travel,280.42,Travel expense,want
+2024-04-29 18:15:07,2024-04-29,18:15:07,April 2024,Week 18,Shopping,409.9,Shopping expense,want
+2024-04-29 19:15:31,2024-04-29,19:15:31,April 2024,Week 18,Transport,264.11,Transport expense,need
+2024-04-30 01:33:39,2024-04-30,01:33:39,April 2024,Week 18,Entertainment,249.82,Entertainment expense,want
+2024-04-30 08:39:05,2024-04-30,08:39:05,April 2024,Week 18,Subscriptions,23.15,Subscriptions expense,want
+2024-04-30 15:58:28,2024-04-30,15:58:28,April 2024,Week 18,Rent,1550.24,Rent expense,need
+2024-04-30 19:23:32,2024-04-30,19:23:32,April 2024,Week 18,Healthcare,245.52,Healthcare expense,need
+2024-05-01 10:06:23,2024-05-01,10:06:23,May 2024,Week 18,Travel,219.75,Travel expense,want
+2024-05-02 03:44:33,2024-05-02,03:44:33,May 2024,Week 18,Groceries,374.66,Groceries expense,need
+2024-05-02 07:02:56,2024-05-02,07:02:56,May 2024,Week 18,Travel,447.7,Travel expense,want
+2024-05-02 22:19:57,2024-05-02,22:19:57,May 2024,Week 18,Rent,1907.34,Rent expense,need
+2024-05-03 04:21:54,2024-05-03,04:21:54,May 2024,Week 18,Food Delivery,21.76,Food Delivery expense,want
+2024-05-04 12:00:11,2024-05-04,12:00:11,May 2024,Week 18,Transport,204.4,Transport expense,need
+2024-05-05 05:42:19,2024-05-05,05:42:19,May 2024,Week 18,Travel,616.59,Travel expense,want
+2024-05-05 19:38:21,2024-05-05,19:38:21,May 2024,Week 18,Shopping,436.67,Shopping expense,want
+2024-05-05 21:36:00,2024-05-05,21:36:00,May 2024,Week 18,Healthcare,50.32,Healthcare expense,need
+2024-05-06 01:42:20,2024-05-06,01:42:20,May 2024,Week 19,Dining Out,95.43,Dining Out expense,want
+2024-05-06 02:33:11,2024-05-06,02:33:11,May 2024,Week 19,Dining Out,176.41,Dining Out expense,want
+2024-05-06 04:04:31,2024-05-06,04:04:31,May 2024,Week 19,Subscriptions,22.04,Subscriptions expense,want
+2024-05-06 06:19:35,2024-05-06,06:19:35,May 2024,Week 19,Shopping,391.64,Shopping expense,want
+2024-05-06 12:36:29,2024-05-06,12:36:29,May 2024,Week 19,Travel,335.4,Travel expense,want
+2024-05-06 12:46:15,2024-05-06,12:46:15,May 2024,Week 19,Utilities,125.2,Utilities expense,need
+2024-05-06 14:11:47,2024-05-06,14:11:47,May 2024,Week 19,Rent,1156.09,Rent expense,need
+2024-05-06 23:18:37,2024-05-06,23:18:37,May 2024,Week 19,Shopping,328.33,Shopping expense,want
+2024-05-08 03:47:48,2024-05-08,03:47:48,May 2024,Week 19,Utilities,241.91,Utilities expense,need
+2024-05-08 10:14:54,2024-05-08,10:14:54,May 2024,Week 19,Subscriptions,7.58,Subscriptions expense,want
+2024-05-08 22:11:55,2024-05-08,22:11:55,May 2024,Week 19,Food Delivery,30.12,Food Delivery expense,want
+2024-05-09 03:50:44,2024-05-09,03:50:44,May 2024,Week 19,Entertainment,54.39,Entertainment expense,want
+2024-05-10 13:32:59,2024-05-10,13:32:59,May 2024,Week 19,Food Delivery,5.28,Food Delivery expense,want
+2024-05-10 16:11:47,2024-05-10,16:11:47,May 2024,Week 19,Groceries,333.67,Groceries expense,need
+2024-05-10 18:20:47,2024-05-10,18:20:47,May 2024,Week 19,Food Delivery,7.23,Food Delivery expense,want
+2024-05-11 07:36:07,2024-05-11,07:36:07,May 2024,Week 19,Rent,727.52,Rent expense,need
+2024-05-11 12:57:01,2024-05-11,12:57:01,May 2024,Week 19,Dining Out,76.49,Dining Out expense,want
+2024-05-12 05:56:01,2024-05-12,05:56:01,May 2024,Week 19,Transport,316.51,Transport expense,need
+2024-05-12 14:28:27,2024-05-12,14:28:27,May 2024,Week 19,Shopping,24.39,Shopping expense,want
+2024-05-13 04:35:40,2024-05-13,04:35:40,May 2024,Week 20,Entertainment,283.8,Entertainment expense,want
+2024-05-13 08:25:58,2024-05-13,08:25:58,May 2024,Week 20,Rent,1323.66,Rent expense,need
+2024-05-13 09:52:08,2024-05-13,09:52:08,May 2024,Week 20,Subscriptions,5.33,Subscriptions expense,want
+2024-05-13 14:27:53,2024-05-13,14:27:53,May 2024,Week 20,Subscriptions,21.57,Subscriptions expense,want
+2024-05-15 07:24:34,2024-05-15,07:24:34,May 2024,Week 20,Travel,472.74,Travel expense,want
+2024-05-16 16:37:04,2024-05-16,16:37:04,May 2024,Week 20,Transport,492.24,Transport expense,need
+2024-05-16 21:50:40,2024-05-16,21:50:40,May 2024,Week 20,Travel,670.29,Travel expense,want
+2024-05-18 00:16:21,2024-05-18,00:16:21,May 2024,Week 20,Travel,973.23,Travel expense,want
+2024-05-18 03:35:39,2024-05-18,03:35:39,May 2024,Week 20,Dining Out,179.37,Dining Out expense,want
+2024-05-19 10:50:04,2024-05-19,10:50:04,May 2024,Week 20,Healthcare,20.08,Healthcare expense,need
+2024-05-19 19:14:41,2024-05-19,19:14:41,May 2024,Week 20,Travel,416.72,Travel expense,want
+2024-05-20 11:10:45,2024-05-20,11:10:45,May 2024,Week 21,Shopping,372.22,Shopping expense,want
+2024-05-20 15:49:10,2024-05-20,15:49:10,May 2024,Week 21,Subscriptions,37.57,Subscriptions expense,want
+2024-05-20 21:08:46,2024-05-20,21:08:46,May 2024,Week 21,Subscriptions,45.23,Subscriptions expense,want
+2024-05-21 04:41:46,2024-05-21,04:41:46,May 2024,Week 21,Dining Out,30.09,Dining Out expense,want
+2024-05-21 11:32:04,2024-05-21,11:32:04,May 2024,Week 21,Healthcare,140.18,Healthcare expense,need
+2024-05-23 00:19:49,2024-05-23,00:19:49,May 2024,Week 21,Dining Out,165.54,Dining Out expense,want
+2024-05-23 13:44:34,2024-05-23,13:44:34,May 2024,Week 21,Rent,1432.12,Rent expense,need
+2024-05-24 01:59:13,2024-05-24,01:59:13,May 2024,Week 21,Healthcare,175.17,Healthcare expense,need
+2024-05-24 12:14:54,2024-05-24,12:14:54,May 2024,Week 21,Entertainment,224.87,Entertainment expense,want
+2024-05-24 20:01:30,2024-05-24,20:01:30,May 2024,Week 21,Transport,307.27,Transport expense,need
+2024-05-25 09:13:44,2024-05-25,09:13:44,May 2024,Week 21,Travel,843.89,Travel expense,want
+2024-05-25 18:52:35,2024-05-25,18:52:35,May 2024,Week 21,Subscriptions,43.31,Subscriptions expense,want
+2024-05-25 21:04:28,2024-05-25,21:04:28,May 2024,Week 21,Healthcare,198.31,Healthcare expense,need
+2024-05-26 08:54:57,2024-05-26,08:54:57,May 2024,Week 21,Shopping,44.15,Shopping expense,want
+2024-05-26 20:19:39,2024-05-26,20:19:39,May 2024,Week 21,Dining Out,61.27,Dining Out expense,want
+2024-05-26 21:44:39,2024-05-26,21:44:39,May 2024,Week 21,Travel,775.11,Travel expense,want
+2024-05-27 02:36:46,2024-05-27,02:36:46,May 2024,Week 22,Travel,342.89,Travel expense,want
+2024-05-27 03:11:23,2024-05-27,03:11:23,May 2024,Week 22,Travel,518.93,Travel expense,want
+2024-05-27 12:31:54,2024-05-27,12:31:54,May 2024,Week 22,Entertainment,62.45,Entertainment expense,want
+2024-05-27 14:54:58,2024-05-27,14:54:58,May 2024,Week 22,Travel,480.03,Travel expense,want
+2024-05-28 01:13:17,2024-05-28,01:13:17,May 2024,Week 22,Rent,780.75,Rent expense,need
+2024-05-28 14:51:05,2024-05-28,14:51:05,May 2024,Week 22,Rent,1574.51,Rent expense,need
+2024-05-29 03:53:39,2024-05-29,03:53:39,May 2024,Week 22,Entertainment,228.92,Entertainment expense,want
+2024-05-29 10:24:06,2024-05-29,10:24:06,May 2024,Week 22,Transport,84.56,Transport expense,need
+2024-05-29 17:19:46,2024-05-29,17:19:46,May 2024,Week 22,Subscriptions,36.45,Subscriptions expense,want
+2024-05-30 10:46:48,2024-05-30,10:46:48,May 2024,Week 22,Utilities,264.64,Utilities expense,need
+2024-05-30 11:11:43,2024-05-30,11:11:43,May 2024,Week 22,Utilities,185.16,Utilities expense,need
+2024-05-30 16:53:41,2024-05-30,16:53:41,May 2024,Week 22,Food Delivery,88.79,Food Delivery expense,want
+2024-05-31 00:19:07,2024-05-31,00:19:07,May 2024,Week 22,Groceries,474.8,Groceries expense,need
+2024-06-02 02:20:56,2024-06-02,02:20:56,June 2024,Week 22,Rent,622.05,Rent expense,need
+2024-06-02 04:07:13,2024-06-02,04:07:13,June 2024,Week 22,Transport,239.4,Transport expense,need
+2024-06-03 02:49:02,2024-06-03,02:49:02,June 2024,Week 23,Shopping,73.41,Shopping expense,want
+2024-06-03 09:20:48,2024-06-03,09:20:48,June 2024,Week 23,Healthcare,164.79,Healthcare expense,need
+2024-06-03 20:30:39,2024-06-03,20:30:39,June 2024,Week 23,Dining Out,169.7,Dining Out expense,want
+2024-06-04 18:54:26,2024-06-04,18:54:26,June 2024,Week 23,Rent,534.49,Rent expense,need
+2024-06-06 02:25:50,2024-06-06,02:25:50,June 2024,Week 23,Subscriptions,21.31,Subscriptions expense,want
+2024-06-06 12:00:41,2024-06-06,12:00:41,June 2024,Week 23,Travel,174.95,Travel expense,want
+2024-06-07 15:32:57,2024-06-07,15:32:57,June 2024,Week 23,Transport,85.99,Transport expense,need
+2024-06-07 18:13:04,2024-06-07,18:13:04,June 2024,Week 23,Subscriptions,37.57,Subscriptions expense,want
+2024-06-08 05:28:07,2024-06-08,05:28:07,June 2024,Week 23,Utilities,219.16,Utilities expense,need
+2024-06-08 07:14:11,2024-06-08,07:14:11,June 2024,Week 23,Subscriptions,48.8,Subscriptions expense,want
+2024-06-08 21:00:24,2024-06-08,21:00:24,June 2024,Week 23,Entertainment,94.54,Entertainment expense,want
+2024-06-09 21:02:38,2024-06-09,21:02:38,June 2024,Week 23,Healthcare,29.74,Healthcare expense,need
+2024-06-09 23:00:27,2024-06-09,23:00:27,June 2024,Week 23,Healthcare,218.57,Healthcare expense,need
+2024-06-10 00:21:06,2024-06-10,00:21:06,June 2024,Week 24,Transport,483.47,Transport expense,need
+2024-06-10 20:15:37,2024-06-10,20:15:37,June 2024,Week 24,Transport,423.07,Transport expense,need
+2024-06-11 21:58:15,2024-06-11,21:58:15,June 2024,Week 24,Utilities,185.9,Utilities expense,need
+2024-06-12 08:09:48,2024-06-12,08:09:48,June 2024,Week 24,Utilities,89.36,Utilities expense,need
+2024-06-12 16:07:13,2024-06-12,16:07:13,June 2024,Week 24,Healthcare,242.38,Healthcare expense,need
+2024-06-13 03:19:45,2024-06-13,03:19:45,June 2024,Week 24,Dining Out,40.93,Dining Out expense,want
+2024-06-13 16:24:04,2024-06-13,16:24:04,June 2024,Week 24,Utilities,125.0,Utilities expense,need
+2024-06-13 19:54:15,2024-06-13,19:54:15,June 2024,Week 24,Shopping,474.64,Shopping expense,want
+2024-06-13 22:11:04,2024-06-13,22:11:04,June 2024,Week 24,Dining Out,22.04,Dining Out expense,want
+2024-06-14 01:47:17,2024-06-14,01:47:17,June 2024,Week 24,Subscriptions,47.74,Subscriptions expense,want
+2024-06-14 23:00:43,2024-06-14,23:00:43,June 2024,Week 24,Utilities,248.35,Utilities expense,need
+2024-06-15 18:14:04,2024-06-15,18:14:04,June 2024,Week 24,Entertainment,121.75,Entertainment expense,want
+2024-06-16 20:51:19,2024-06-16,20:51:19,June 2024,Week 24,Entertainment,168.69,Entertainment expense,want
+2024-06-17 03:00:48,2024-06-17,03:00:48,June 2024,Week 25,Food Delivery,54.6,Food Delivery expense,want
+2024-06-17 08:48:25,2024-06-17,08:48:25,June 2024,Week 25,Food Delivery,10.07,Food Delivery expense,want
+2024-06-17 09:14:34,2024-06-17,09:14:34,June 2024,Week 25,Shopping,229.41,Shopping expense,want
+2024-06-17 22:20:22,2024-06-17,22:20:22,June 2024,Week 25,Healthcare,119.57,Healthcare expense,need
+2024-06-18 01:45:35,2024-06-18,01:45:35,June 2024,Week 25,Subscriptions,43.09,Subscriptions expense,want
+2024-06-18 16:16:18,2024-06-18,16:16:18,June 2024,Week 25,Healthcare,240.2,Healthcare expense,need
+2024-06-19 03:22:39,2024-06-19,03:22:39,June 2024,Week 25,Healthcare,163.64,Healthcare expense,need
+2024-06-19 04:39:43,2024-06-19,04:39:43,June 2024,Week 25,Travel,193.09,Travel expense,want
+2024-06-19 20:16:54,2024-06-19,20:16:54,June 2024,Week 25,Rent,1787.79,Rent expense,need
+2024-06-20 04:51:57,2024-06-20,04:51:57,June 2024,Week 25,Travel,619.86,Travel expense,want
+2024-06-20 13:47:59,2024-06-20,13:47:59,June 2024,Week 25,Rent,1629.73,Rent expense,need
+2024-06-20 18:36:43,2024-06-20,18:36:43,June 2024,Week 25,Subscriptions,37.81,Subscriptions expense,want
+2024-06-20 20:52:38,2024-06-20,20:52:38,June 2024,Week 25,Dining Out,72.96,Dining Out expense,want
+2024-06-21 01:35:21,2024-06-21,01:35:21,June 2024,Week 25,Food Delivery,94.53,Food Delivery expense,want
+2024-06-22 03:44:00,2024-06-22,03:44:00,June 2024,Week 25,Utilities,232.56,Utilities expense,need
+2024-06-22 12:44:13,2024-06-22,12:44:13,June 2024,Week 25,Shopping,332.85,Shopping expense,want
+2024-06-22 15:14:20,2024-06-22,15:14:20,June 2024,Week 25,Groceries,438.12,Groceries expense,need
+2024-06-23 03:14:22,2024-06-23,03:14:22,June 2024,Week 25,Healthcare,25.58,Healthcare expense,need
+2024-06-23 15:28:11,2024-06-23,15:28:11,June 2024,Week 25,Transport,171.54,Transport expense,need
+2024-06-24 04:47:27,2024-06-24,04:47:27,June 2024,Week 26,Dining Out,144.01,Dining Out expense,want
+2024-06-24 13:02:39,2024-06-24,13:02:39,June 2024,Week 26,Healthcare,20.77,Healthcare expense,need
+2024-06-24 17:38:30,2024-06-24,17:38:30,June 2024,Week 26,Groceries,448.38,Groceries expense,need
+2024-06-24 17:59:18,2024-06-24,17:59:18,June 2024,Week 26,Transport,135.56,Transport expense,need
+2024-06-24 19:16:30,2024-06-24,19:16:30,June 2024,Week 26,Shopping,128.89,Shopping expense,want
+2024-06-24 20:41:54,2024-06-24,20:41:54,June 2024,Week 26,Groceries,264.97,Groceries expense,need
+2024-06-24 22:19:36,2024-06-24,22:19:36,June 2024,Week 26,Entertainment,253.13,Entertainment expense,want
+2024-06-26 10:16:41,2024-06-26,10:16:41,June 2024,Week 26,Dining Out,173.23,Dining Out expense,want
+2024-06-26 10:17:33,2024-06-26,10:17:33,June 2024,Week 26,Rent,707.27,Rent expense,need
+2024-06-27 03:38:33,2024-06-27,03:38:33,June 2024,Week 26,Transport,192.21,Transport expense,need
+2024-06-27 07:47:26,2024-06-27,07:47:26,June 2024,Week 26,Dining Out,38.3,Dining Out expense,want
+2024-06-27 17:40:15,2024-06-27,17:40:15,June 2024,Week 26,Utilities,294.0,Utilities expense,need
+2024-06-28 03:19:56,2024-06-28,03:19:56,June 2024,Week 26,Dining Out,170.3,Dining Out expense,want
+2024-06-28 09:24:04,2024-06-28,09:24:04,June 2024,Week 26,Travel,835.05,Travel expense,want
+2024-06-28 21:29:11,2024-06-28,21:29:11,June 2024,Week 26,Rent,1933.77,Rent expense,need
+2024-06-30 13:02:10,2024-06-30,13:02:10,June 2024,Week 26,Healthcare,111.56,Healthcare expense,need
+2024-06-30 14:18:26,2024-06-30,14:18:26,June 2024,Week 26,Dining Out,97.25,Dining Out expense,want
+2024-06-30 22:55:04,2024-06-30,22:55:04,June 2024,Week 26,Rent,1652.41,Rent expense,need
+2024-07-01 03:46:32,2024-07-01,03:46:32,July 2024,Week 27,Dining Out,68.72,Dining Out expense,want
+2024-07-01 06:02:04,2024-07-01,06:02:04,July 2024,Week 27,Shopping,76.62,Shopping expense,want
+2024-07-01 09:27:31,2024-07-01,09:27:31,July 2024,Week 27,Subscriptions,6.33,Subscriptions expense,want
+2024-07-01 12:32:59,2024-07-01,12:32:59,July 2024,Week 27,Groceries,225.37,Groceries expense,need
+2024-07-01 16:47:56,2024-07-01,16:47:56,July 2024,Week 27,Food Delivery,19.29,Food Delivery expense,want
+2024-07-01 23:08:05,2024-07-01,23:08:05,July 2024,Week 27,Dining Out,25.74,Dining Out expense,want
+2024-07-02 17:09:39,2024-07-02,17:09:39,July 2024,Week 27,Healthcare,266.32,Healthcare expense,need
+2024-07-03 02:40:20,2024-07-03,02:40:20,July 2024,Week 27,Shopping,414.24,Shopping expense,want
+2024-07-03 09:25:08,2024-07-03,09:25:08,July 2024,Week 27,Healthcare,145.01,Healthcare expense,need
+2024-07-03 15:10:22,2024-07-03,15:10:22,July 2024,Week 27,Groceries,116.04,Groceries expense,need
+2024-07-03 19:50:36,2024-07-03,19:50:36,July 2024,Week 27,Shopping,438.12,Shopping expense,want
+2024-07-05 02:10:48,2024-07-05,02:10:48,July 2024,Week 27,Food Delivery,94.01,Food Delivery expense,want
+2024-07-07 01:46:22,2024-07-07,01:46:22,July 2024,Week 27,Rent,1899.93,Rent expense,need
+2024-07-08 07:26:27,2024-07-08,07:26:27,July 2024,Week 28,Shopping,57.79,Shopping expense,want
+2024-07-08 20:01:31,2024-07-08,20:01:31,July 2024,Week 28,Subscriptions,31.92,Subscriptions expense,want
+2024-07-09 06:47:35,2024-07-09,06:47:35,July 2024,Week 28,Utilities,187.39,Utilities expense,need
+2024-07-09 15:06:16,2024-07-09,15:06:16,July 2024,Week 28,Subscriptions,28.79,Subscriptions expense,want
+2024-07-09 16:10:15,2024-07-09,16:10:15,July 2024,Week 28,Transport,70.93,Transport expense,need
+2024-07-09 22:30:56,2024-07-09,22:30:56,July 2024,Week 28,Entertainment,39.36,Entertainment expense,want
+2024-07-10 20:43:11,2024-07-10,20:43:11,July 2024,Week 28,Groceries,310.71,Groceries expense,need
+2024-07-11 22:43:54,2024-07-11,22:43:54,July 2024,Week 28,Transport,120.58,Transport expense,need
+2024-07-12 10:57:59,2024-07-12,10:57:59,July 2024,Week 28,Groceries,349.59,Groceries expense,need
+2024-07-12 11:08:17,2024-07-12,11:08:17,July 2024,Week 28,Travel,763.04,Travel expense,want
+2024-07-13 05:55:59,2024-07-13,05:55:59,July 2024,Week 28,Healthcare,38.49,Healthcare expense,need
+2024-07-13 10:03:42,2024-07-13,10:03:42,July 2024,Week 28,Groceries,434.6,Groceries expense,need
+2024-07-13 16:31:19,2024-07-13,16:31:19,July 2024,Week 28,Utilities,95.22,Utilities expense,need
+2024-07-13 22:20:39,2024-07-13,22:20:39,July 2024,Week 28,Shopping,295.91,Shopping expense,want
+2024-07-14 00:32:44,2024-07-14,00:32:44,July 2024,Week 28,Food Delivery,56.95,Food Delivery expense,want
+2024-07-14 06:25:37,2024-07-14,06:25:37,July 2024,Week 28,Entertainment,169.94,Entertainment expense,want
+2024-07-14 10:13:42,2024-07-14,10:13:42,July 2024,Week 28,Utilities,225.98,Utilities expense,need
+2024-07-14 15:48:40,2024-07-14,15:48:40,July 2024,Week 28,Travel,244.36,Travel expense,want
+2024-07-14 21:42:12,2024-07-14,21:42:12,July 2024,Week 28,Food Delivery,89.95,Food Delivery expense,want
+2024-07-15 01:51:42,2024-07-15,01:51:42,July 2024,Week 29,Transport,468.75,Transport expense,need
+2024-07-15 17:43:18,2024-07-15,17:43:18,July 2024,Week 29,Travel,823.84,Travel expense,want
+2024-07-16 19:20:24,2024-07-16,19:20:24,July 2024,Week 29,Travel,702.58,Travel expense,want
+2024-07-17 02:10:46,2024-07-17,02:10:46,July 2024,Week 29,Transport,425.23,Transport expense,need
+2024-07-17 14:26:57,2024-07-17,14:26:57,July 2024,Week 29,Shopping,304.73,Shopping expense,want
+2024-07-17 21:07:46,2024-07-17,21:07:46,July 2024,Week 29,Food Delivery,77.68,Food Delivery expense,want
+2024-07-18 04:00:26,2024-07-18,04:00:26,July 2024,Week 29,Transport,355.21,Transport expense,need
+2024-07-20 06:19:37,2024-07-20,06:19:37,July 2024,Week 29,Food Delivery,11.11,Food Delivery expense,want
+2024-07-21 06:34:02,2024-07-21,06:34:02,July 2024,Week 29,Travel,723.74,Travel expense,want
+2024-07-21 18:55:10,2024-07-21,18:55:10,July 2024,Week 29,Food Delivery,31.8,Food Delivery expense,want
+2024-07-22 13:04:31,2024-07-22,13:04:31,July 2024,Week 30,Transport,421.69,Transport expense,need
+2024-07-22 16:54:58,2024-07-22,16:54:58,July 2024,Week 30,Shopping,111.96,Shopping expense,want
+2024-07-23 11:24:08,2024-07-23,11:24:08,July 2024,Week 30,Dining Out,133.19,Dining Out expense,want
+2024-07-23 22:10:50,2024-07-23,22:10:50,July 2024,Week 30,Entertainment,72.98,Entertainment expense,want
+2024-07-24 10:46:46,2024-07-24,10:46:46,July 2024,Week 30,Food Delivery,31.3,Food Delivery expense,want
+2024-07-24 11:48:39,2024-07-24,11:48:39,July 2024,Week 30,Entertainment,25.97,Entertainment expense,want
+2024-07-26 00:31:52,2024-07-26,00:31:52,July 2024,Week 30,Subscriptions,12.4,Subscriptions expense,want
+2024-07-26 23:58:17,2024-07-26,23:58:17,July 2024,Week 30,Rent,749.58,Rent expense,need
+2024-07-27 17:45:43,2024-07-27,17:45:43,July 2024,Week 30,Utilities,260.12,Utilities expense,need
+2024-07-29 02:36:22,2024-07-29,02:36:22,July 2024,Week 31,Shopping,449.95,Shopping expense,want
+2024-07-29 14:16:05,2024-07-29,14:16:05,July 2024,Week 31,Shopping,84.87,Shopping expense,want
+2024-07-29 18:52:54,2024-07-29,18:52:54,July 2024,Week 31,Dining Out,41.38,Dining Out expense,want
+2024-07-31 05:00:05,2024-07-31,05:00:05,July 2024,Week 31,Dining Out,103.04,Dining Out expense,want
+2024-07-31 19:41:55,2024-07-31,19:41:55,July 2024,Week 31,Travel,453.28,Travel expense,want
+2024-07-31 20:40:10,2024-07-31,20:40:10,July 2024,Week 31,Food Delivery,98.63,Food Delivery expense,want
+2024-08-01 06:07:18,2024-08-01,06:07:18,August 2024,Week 31,Dining Out,183.72,Dining Out expense,want
+2024-08-01 15:19:27,2024-08-01,15:19:27,August 2024,Week 31,Rent,791.2,Rent expense,need
+2024-08-01 21:23:18,2024-08-01,21:23:18,August 2024,Week 31,Transport,97.48,Transport expense,need
+2024-08-01 23:57:44,2024-08-01,23:57:44,August 2024,Week 31,Transport,437.4,Transport expense,need
+2024-08-02 06:56:24,2024-08-02,06:56:24,August 2024,Week 31,Healthcare,81.82,Healthcare expense,need
+2024-08-02 13:15:51,2024-08-02,13:15:51,August 2024,Week 31,Healthcare,257.7,Healthcare expense,need
+2024-08-02 16:27:47,2024-08-02,16:27:47,August 2024,Week 31,Food Delivery,74.75,Food Delivery expense,want
+2024-08-03 06:24:06,2024-08-03,06:24:06,August 2024,Week 31,Groceries,217.45,Groceries expense,need
+2024-08-03 21:51:53,2024-08-03,21:51:53,August 2024,Week 31,Food Delivery,47.12,Food Delivery expense,want
+2024-08-04 07:33:35,2024-08-04,07:33:35,August 2024,Week 31,Dining Out,85.42,Dining Out expense,want
+2024-08-04 09:17:29,2024-08-04,09:17:29,August 2024,Week 31,Transport,465.76,Transport expense,need
+2024-08-04 23:24:54,2024-08-04,23:24:54,August 2024,Week 31,Shopping,189.32,Shopping expense,want
+2024-08-05 03:02:04,2024-08-05,03:02:04,August 2024,Week 32,Groceries,68.85,Groceries expense,need
+2024-08-05 20:47:23,2024-08-05,20:47:23,August 2024,Week 32,Groceries,444.47,Groceries expense,need
+2024-08-05 20:51:33,2024-08-05,20:51:33,August 2024,Week 32,Entertainment,275.96,Entertainment expense,want
+2024-08-07 00:56:26,2024-08-07,00:56:26,August 2024,Week 32,Transport,335.95,Transport expense,need
+2024-08-07 08:31:15,2024-08-07,08:31:15,August 2024,Week 32,Shopping,306.8,Shopping expense,want
+2024-08-07 13:01:17,2024-08-07,13:01:17,August 2024,Week 32,Healthcare,183.12,Healthcare expense,need
+2024-08-07 14:57:20,2024-08-07,14:57:20,August 2024,Week 32,Utilities,272.8,Utilities expense,need
+2024-08-08 10:43:59,2024-08-08,10:43:59,August 2024,Week 32,Entertainment,231.96,Entertainment expense,want
+2024-08-08 16:44:15,2024-08-08,16:44:15,August 2024,Week 32,Transport,131.06,Transport expense,need
+2024-08-09 01:20:13,2024-08-09,01:20:13,August 2024,Week 32,Rent,1759.41,Rent expense,need
+2024-08-09 03:47:58,2024-08-09,03:47:58,August 2024,Week 32,Groceries,283.89,Groceries expense,need
+2024-08-09 13:50:20,2024-08-09,13:50:20,August 2024,Week 32,Travel,80.03,Travel expense,want
+2024-08-09 15:45:05,2024-08-09,15:45:05,August 2024,Week 32,Groceries,404.48,Groceries expense,need
+2024-08-11 09:48:09,2024-08-11,09:48:09,August 2024,Week 32,Rent,949.08,Rent expense,need
+2024-08-11 14:58:55,2024-08-11,14:58:55,August 2024,Week 32,Transport,268.36,Transport expense,need
+2024-08-11 21:25:41,2024-08-11,21:25:41,August 2024,Week 32,Food Delivery,92.28,Food Delivery expense,want
+2024-08-12 05:02:55,2024-08-12,05:02:55,August 2024,Week 33,Transport,467.17,Transport expense,need
+2024-08-13 21:11:24,2024-08-13,21:11:24,August 2024,Week 33,Food Delivery,44.2,Food Delivery expense,want
+2024-08-14 00:19:06,2024-08-14,00:19:06,August 2024,Week 33,Rent,651.52,Rent expense,need
+2024-08-14 02:09:06,2024-08-14,02:09:06,August 2024,Week 33,Travel,73.57,Travel expense,want
+2024-08-14 13:51:03,2024-08-14,13:51:03,August 2024,Week 33,Healthcare,182.2,Healthcare expense,need
+2024-08-14 22:18:26,2024-08-14,22:18:26,August 2024,Week 33,Subscriptions,19.37,Subscriptions expense,want
+2024-08-15 15:32:21,2024-08-15,15:32:21,August 2024,Week 33,Groceries,387.81,Groceries expense,need
+2024-08-16 07:36:00,2024-08-16,07:36:00,August 2024,Week 33,Subscriptions,35.0,Subscriptions expense,want
+2024-08-16 11:55:28,2024-08-16,11:55:28,August 2024,Week 33,Entertainment,97.87,Entertainment expense,want
+2024-08-16 22:47:11,2024-08-16,22:47:11,August 2024,Week 33,Transport,352.9,Transport expense,need
+2024-08-17 06:54:42,2024-08-17,06:54:42,August 2024,Week 33,Subscriptions,6.1,Subscriptions expense,want
+2024-08-18 04:21:29,2024-08-18,04:21:29,August 2024,Week 33,Groceries,76.84,Groceries expense,need
+2024-08-18 04:34:38,2024-08-18,04:34:38,August 2024,Week 33,Dining Out,110.6,Dining Out expense,want
+2024-08-18 11:56:40,2024-08-18,11:56:40,August 2024,Week 33,Groceries,481.31,Groceries expense,need
+2024-08-19 01:25:46,2024-08-19,01:25:46,August 2024,Week 34,Travel,905.86,Travel expense,want
+2024-08-19 23:28:38,2024-08-19,23:28:38,August 2024,Week 34,Travel,581.45,Travel expense,want
+2024-08-20 04:16:15,2024-08-20,04:16:15,August 2024,Week 34,Transport,52.44,Transport expense,need
+2024-08-20 05:44:13,2024-08-20,05:44:13,August 2024,Week 34,Entertainment,142.26,Entertainment expense,want
+2024-08-21 02:48:52,2024-08-21,02:48:52,August 2024,Week 34,Rent,545.53,Rent expense,need
+2024-08-22 10:25:53,2024-08-22,10:25:53,August 2024,Week 34,Entertainment,157.03,Entertainment expense,want
+2024-08-22 16:43:09,2024-08-22,16:43:09,August 2024,Week 34,Shopping,398.32,Shopping expense,want
+2024-08-22 17:02:36,2024-08-22,17:02:36,August 2024,Week 34,Shopping,182.16,Shopping expense,want
+2024-08-22 23:44:39,2024-08-22,23:44:39,August 2024,Week 34,Healthcare,162.12,Healthcare expense,need
+2024-08-22 23:58:51,2024-08-22,23:58:51,August 2024,Week 34,Dining Out,184.71,Dining Out expense,want
+2024-08-23 21:10:48,2024-08-23,21:10:48,August 2024,Week 34,Groceries,357.11,Groceries expense,need
+2024-08-24 07:35:46,2024-08-24,07:35:46,August 2024,Week 34,Transport,417.35,Transport expense,need
+2024-08-25 13:25:26,2024-08-25,13:25:26,August 2024,Week 34,Subscriptions,30.36,Subscriptions expense,want
+2024-08-25 15:32:29,2024-08-25,15:32:29,August 2024,Week 34,Entertainment,110.86,Entertainment expense,want
+2024-08-26 09:43:36,2024-08-26,09:43:36,August 2024,Week 35,Healthcare,33.71,Healthcare expense,need
+2024-08-26 15:18:01,2024-08-26,15:18:01,August 2024,Week 35,Utilities,89.06,Utilities expense,need
+2024-08-26 20:25:34,2024-08-26,20:25:34,August 2024,Week 35,Food Delivery,69.59,Food Delivery expense,want
+2024-08-28 03:05:41,2024-08-28,03:05:41,August 2024,Week 35,Shopping,103.98,Shopping expense,want
+2024-08-28 09:03:08,2024-08-28,09:03:08,August 2024,Week 35,Food Delivery,70.94,Food Delivery expense,want
+2024-08-28 16:34:19,2024-08-28,16:34:19,August 2024,Week 35,Subscriptions,48.14,Subscriptions expense,want
+2024-08-29 02:30:09,2024-08-29,02:30:09,August 2024,Week 35,Utilities,192.92,Utilities expense,need
+2024-08-29 02:55:03,2024-08-29,02:55:03,August 2024,Week 35,Utilities,109.21,Utilities expense,need
+2024-08-29 11:15:18,2024-08-29,11:15:18,August 2024,Week 35,Subscriptions,28.73,Subscriptions expense,want
+2024-08-29 13:04:36,2024-08-29,13:04:36,August 2024,Week 35,Entertainment,66.89,Entertainment expense,want
+2024-08-29 21:54:06,2024-08-29,21:54:06,August 2024,Week 35,Utilities,156.17,Utilities expense,need
+2024-08-29 22:07:17,2024-08-29,22:07:17,August 2024,Week 35,Utilities,223.85,Utilities expense,need
+2024-08-30 03:03:31,2024-08-30,03:03:31,August 2024,Week 35,Dining Out,14.71,Dining Out expense,want
+2024-08-30 05:15:07,2024-08-30,05:15:07,August 2024,Week 35,Rent,1177.16,Rent expense,need
+2024-08-30 16:56:26,2024-08-30,16:56:26,August 2024,Week 35,Rent,882.13,Rent expense,need
+2024-08-30 19:34:50,2024-08-30,19:34:50,August 2024,Week 35,Transport,292.34,Transport expense,need
+2024-08-30 20:57:17,2024-08-30,20:57:17,August 2024,Week 35,Food Delivery,96.92,Food Delivery expense,want
+2024-08-31 03:21:47,2024-08-31,03:21:47,August 2024,Week 35,Entertainment,57.23,Entertainment expense,want
+2024-09-02 04:06:31,2024-09-02,04:06:31,September 2024,Week 36,Shopping,479.64,Shopping expense,want
+2024-09-02 21:11:11,2024-09-02,21:11:11,September 2024,Week 36,Travel,108.77,Travel expense,want
+2024-09-03 01:14:45,2024-09-03,01:14:45,September 2024,Week 36,Shopping,112.89,Shopping expense,want
+2024-09-03 14:47:25,2024-09-03,14:47:25,September 2024,Week 36,Shopping,128.97,Shopping expense,want
+2024-09-03 16:02:32,2024-09-03,16:02:32,September 2024,Week 36,Travel,479.81,Travel expense,want
+2024-09-04 03:57:41,2024-09-04,03:57:41,September 2024,Week 36,Groceries,201.67,Groceries expense,need
+2024-09-04 06:16:54,2024-09-04,06:16:54,September 2024,Week 36,Shopping,42.55,Shopping expense,want
+2024-09-04 06:17:27,2024-09-04,06:17:27,September 2024,Week 36,Subscriptions,25.59,Subscriptions expense,want
+2024-09-04 09:06:26,2024-09-04,09:06:26,September 2024,Week 36,Entertainment,211.85,Entertainment expense,want
+2024-09-04 10:14:33,2024-09-04,10:14:33,September 2024,Week 36,Healthcare,149.07,Healthcare expense,need
+2024-09-04 12:12:45,2024-09-04,12:12:45,September 2024,Week 36,Dining Out,154.63,Dining Out expense,want
+2024-09-05 04:14:34,2024-09-05,04:14:34,September 2024,Week 36,Shopping,154.36,Shopping expense,want
+2024-09-06 23:21:25,2024-09-06,23:21:25,September 2024,Week 36,Travel,103.6,Travel expense,want
+2024-09-07 09:20:57,2024-09-07,09:20:57,September 2024,Week 36,Food Delivery,13.93,Food Delivery expense,want
+2024-09-08 04:01:04,2024-09-08,04:01:04,September 2024,Week 36,Healthcare,236.8,Healthcare expense,need
+2024-09-08 13:06:11,2024-09-08,13:06:11,September 2024,Week 36,Groceries,270.25,Groceries expense,need
+2024-09-08 16:46:00,2024-09-08,16:46:00,September 2024,Week 36,Groceries,367.09,Groceries expense,need
+2024-09-09 00:10:21,2024-09-09,00:10:21,September 2024,Week 37,Transport,356.99,Transport expense,need
+2024-09-09 14:44:34,2024-09-09,14:44:34,September 2024,Week 37,Shopping,231.44,Shopping expense,want
+2024-09-09 22:30:43,2024-09-09,22:30:43,September 2024,Week 37,Healthcare,226.27,Healthcare expense,need
+2024-09-10 05:19:37,2024-09-10,05:19:37,September 2024,Week 37,Dining Out,26.52,Dining Out expense,want
+2024-09-10 07:41:13,2024-09-10,07:41:13,September 2024,Week 37,Shopping,478.24,Shopping expense,want
+2024-09-10 14:17:43,2024-09-10,14:17:43,September 2024,Week 37,Transport,63.25,Transport expense,need
+2024-09-11 02:18:34,2024-09-11,02:18:34,September 2024,Week 37,Travel,232.62,Travel expense,want
+2024-09-11 04:52:13,2024-09-11,04:52:13,September 2024,Week 37,Groceries,199.24,Groceries expense,need
+2024-09-11 19:40:02,2024-09-11,19:40:02,September 2024,Week 37,Entertainment,126.83,Entertainment expense,want
+2024-09-11 19:59:44,2024-09-11,19:59:44,September 2024,Week 37,Subscriptions,34.33,Subscriptions expense,want
+2024-09-11 21:39:26,2024-09-11,21:39:26,September 2024,Week 37,Utilities,297.9,Utilities expense,need
+2024-09-12 15:21:25,2024-09-12,15:21:25,September 2024,Week 37,Dining Out,71.04,Dining Out expense,want
+2024-09-12 19:32:17,2024-09-12,19:32:17,September 2024,Week 37,Transport,388.81,Transport expense,need
+2024-09-13 04:02:58,2024-09-13,04:02:58,September 2024,Week 37,Healthcare,287.94,Healthcare expense,need
+2024-09-13 23:29:50,2024-09-13,23:29:50,September 2024,Week 37,Shopping,116.68,Shopping expense,want
+2024-09-14 11:08:21,2024-09-14,11:08:21,September 2024,Week 37,Groceries,420.36,Groceries expense,need
+2024-09-14 20:26:05,2024-09-14,20:26:05,September 2024,Week 37,Dining Out,107.37,Dining Out expense,want
+2024-09-14 22:31:30,2024-09-14,22:31:30,September 2024,Week 37,Rent,985.49,Rent expense,need
+2024-09-16 18:09:28,2024-09-16,18:09:28,September 2024,Week 38,Entertainment,276.93,Entertainment expense,want
+2024-09-17 07:19:44,2024-09-17,07:19:44,September 2024,Week 38,Food Delivery,88.68,Food Delivery expense,want
+2024-09-18 02:43:45,2024-09-18,02:43:45,September 2024,Week 38,Entertainment,132.98,Entertainment expense,want
+2024-09-19 02:33:49,2024-09-19,02:33:49,September 2024,Week 38,Shopping,293.46,Shopping expense,want
+2024-09-19 03:26:48,2024-09-19,03:26:48,September 2024,Week 38,Food Delivery,83.77,Food Delivery expense,want
+2024-09-19 09:48:00,2024-09-19,09:48:00,September 2024,Week 38,Groceries,173.24,Groceries expense,need
+2024-09-21 04:53:21,2024-09-21,04:53:21,September 2024,Week 38,Transport,328.16,Transport expense,need
+2024-09-21 09:09:16,2024-09-21,09:09:16,September 2024,Week 38,Travel,571.29,Travel expense,want
+2024-09-22 01:47:12,2024-09-22,01:47:12,September 2024,Week 38,Subscriptions,42.7,Subscriptions expense,want
+2024-09-22 07:50:29,2024-09-22,07:50:29,September 2024,Week 38,Food Delivery,34.27,Food Delivery expense,want
+2024-09-23 04:26:59,2024-09-23,04:26:59,September 2024,Week 39,Subscriptions,18.15,Subscriptions expense,want
+2024-09-23 07:35:52,2024-09-23,07:35:52,September 2024,Week 39,Groceries,202.68,Groceries expense,need
+2024-09-23 11:03:57,2024-09-23,11:03:57,September 2024,Week 39,Food Delivery,88.69,Food Delivery expense,want
+2024-09-24 00:44:09,2024-09-24,00:44:09,September 2024,Week 39,Shopping,137.49,Shopping expense,want
+2024-09-24 00:54:52,2024-09-24,00:54:52,September 2024,Week 39,Subscriptions,24.9,Subscriptions expense,want
+2024-09-24 03:51:02,2024-09-24,03:51:02,September 2024,Week 39,Entertainment,251.18,Entertainment expense,want
+2024-09-24 06:14:48,2024-09-24,06:14:48,September 2024,Week 39,Rent,1382.28,Rent expense,need
+2024-09-24 06:34:52,2024-09-24,06:34:52,September 2024,Week 39,Food Delivery,65.91,Food Delivery expense,want
+2024-09-24 17:02:06,2024-09-24,17:02:06,September 2024,Week 39,Utilities,97.71,Utilities expense,need
+2024-09-25 10:07:47,2024-09-25,10:07:47,September 2024,Week 39,Shopping,233.18,Shopping expense,want
+2024-09-25 12:21:42,2024-09-25,12:21:42,September 2024,Week 39,Groceries,496.31,Groceries expense,need
+2024-09-25 23:17:46,2024-09-25,23:17:46,September 2024,Week 39,Dining Out,136.81,Dining Out expense,want
+2024-09-26 10:48:18,2024-09-26,10:48:18,September 2024,Week 39,Groceries,135.13,Groceries expense,need
+2024-09-27 01:55:55,2024-09-27,01:55:55,September 2024,Week 39,Food Delivery,22.65,Food Delivery expense,want
+2024-09-27 13:53:11,2024-09-27,13:53:11,September 2024,Week 39,Healthcare,297.47,Healthcare expense,need
+2024-09-28 16:01:53,2024-09-28,16:01:53,September 2024,Week 39,Travel,546.25,Travel expense,want
+2024-09-28 21:29:04,2024-09-28,21:29:04,September 2024,Week 39,Entertainment,35.46,Entertainment expense,want
+2024-09-29 03:14:30,2024-09-29,03:14:30,September 2024,Week 39,Dining Out,168.32,Dining Out expense,want
+2024-09-29 11:12:57,2024-09-29,11:12:57,September 2024,Week 39,Healthcare,239.32,Healthcare expense,need
+2024-09-30 03:51:22,2024-09-30,03:51:22,September 2024,Week 40,Food Delivery,27.43,Food Delivery expense,want
+2024-09-30 06:56:04,2024-09-30,06:56:04,September 2024,Week 40,Transport,222.66,Transport expense,need
+2024-09-30 16:41:15,2024-09-30,16:41:15,September 2024,Week 40,Utilities,205.03,Utilities expense,need
+2024-09-30 18:00:34,2024-09-30,18:00:34,September 2024,Week 40,Shopping,460.69,Shopping expense,want
+2024-10-01 16:42:46,2024-10-01,16:42:46,October 2024,Week 40,Subscriptions,38.47,Subscriptions expense,want
+2024-10-01 20:31:59,2024-10-01,20:31:59,October 2024,Week 40,Shopping,480.67,Shopping expense,want
+2024-10-02 06:26:02,2024-10-02,06:26:02,October 2024,Week 40,Travel,837.14,Travel expense,want
+2024-10-02 07:33:18,2024-10-02,07:33:18,October 2024,Week 40,Utilities,58.32,Utilities expense,need
+2024-10-02 17:31:50,2024-10-02,17:31:50,October 2024,Week 40,Food Delivery,69.0,Food Delivery expense,want
+2024-10-03 10:23:34,2024-10-03,10:23:34,October 2024,Week 40,Transport,180.3,Transport expense,need
+2024-10-03 12:34:33,2024-10-03,12:34:33,October 2024,Week 40,Dining Out,37.48,Dining Out expense,want
+2024-10-03 20:27:02,2024-10-03,20:27:02,October 2024,Week 40,Subscriptions,41.39,Subscriptions expense,want
+2024-10-04 10:23:22,2024-10-04,10:23:22,October 2024,Week 40,Utilities,272.15,Utilities expense,need
+2024-10-04 13:07:11,2024-10-04,13:07:11,October 2024,Week 40,Entertainment,254.99,Entertainment expense,want
+2024-10-04 16:59:51,2024-10-04,16:59:51,October 2024,Week 40,Shopping,325.21,Shopping expense,want
+2024-10-05 01:44:17,2024-10-05,01:44:17,October 2024,Week 40,Healthcare,100.66,Healthcare expense,need
+2024-10-05 10:48:25,2024-10-05,10:48:25,October 2024,Week 40,Shopping,429.28,Shopping expense,want
+2024-10-05 10:57:31,2024-10-05,10:57:31,October 2024,Week 40,Utilities,175.62,Utilities expense,need
+2024-10-08 03:16:51,2024-10-08,03:16:51,October 2024,Week 41,Travel,176.06,Travel expense,want
+2024-10-08 15:08:29,2024-10-08,15:08:29,October 2024,Week 41,Utilities,178.2,Utilities expense,need
+2024-10-09 04:23:41,2024-10-09,04:23:41,October 2024,Week 41,Dining Out,126.46,Dining Out expense,want
+2024-10-09 06:53:32,2024-10-09,06:53:32,October 2024,Week 41,Healthcare,52.54,Healthcare expense,need
+2024-10-10 21:31:47,2024-10-10,21:31:47,October 2024,Week 41,Entertainment,123.42,Entertainment expense,want
+2024-10-10 22:16:12,2024-10-10,22:16:12,October 2024,Week 41,Entertainment,191.45,Entertainment expense,want
+2024-10-11 04:53:18,2024-10-11,04:53:18,October 2024,Week 41,Transport,222.07,Transport expense,need
+2024-10-11 08:38:43,2024-10-11,08:38:43,October 2024,Week 41,Subscriptions,38.32,Subscriptions expense,want
+2024-10-12 20:46:30,2024-10-12,20:46:30,October 2024,Week 41,Food Delivery,87.88,Food Delivery expense,want
+2024-10-13 16:14:11,2024-10-13,16:14:11,October 2024,Week 41,Entertainment,245.91,Entertainment expense,want
+2024-10-14 09:16:32,2024-10-14,09:16:32,October 2024,Week 42,Healthcare,232.71,Healthcare expense,need
+2024-10-14 15:07:40,2024-10-14,15:07:40,October 2024,Week 42,Utilities,84.01,Utilities expense,need
+2024-10-14 19:42:23,2024-10-14,19:42:23,October 2024,Week 42,Transport,438.1,Transport expense,need
+2024-10-15 00:41:11,2024-10-15,00:41:11,October 2024,Week 42,Subscriptions,7.07,Subscriptions expense,want
+2024-10-15 01:18:44,2024-10-15,01:18:44,October 2024,Week 42,Rent,1925.44,Rent expense,need
+2024-10-15 05:25:01,2024-10-15,05:25:01,October 2024,Week 42,Subscriptions,27.73,Subscriptions expense,want
+2024-10-15 15:58:28,2024-10-15,15:58:28,October 2024,Week 42,Entertainment,143.22,Entertainment expense,want
+2024-10-15 19:39:40,2024-10-15,19:39:40,October 2024,Week 42,Healthcare,210.0,Healthcare expense,need
+2024-10-16 13:37:45,2024-10-16,13:37:45,October 2024,Week 42,Dining Out,48.65,Dining Out expense,want
+2024-10-16 14:46:57,2024-10-16,14:46:57,October 2024,Week 42,Subscriptions,40.09,Subscriptions expense,want
+2024-10-16 19:48:08,2024-10-16,19:48:08,October 2024,Week 42,Subscriptions,23.19,Subscriptions expense,want
+2024-10-17 13:48:47,2024-10-17,13:48:47,October 2024,Week 42,Dining Out,58.88,Dining Out expense,want
+2024-10-17 16:48:44,2024-10-17,16:48:44,October 2024,Week 42,Dining Out,55.25,Dining Out expense,want
+2024-10-18 17:53:54,2024-10-18,17:53:54,October 2024,Week 42,Utilities,116.56,Utilities expense,need
+2024-10-19 01:18:09,2024-10-19,01:18:09,October 2024,Week 42,Transport,301.0,Transport expense,need
+2024-10-19 04:05:03,2024-10-19,04:05:03,October 2024,Week 42,Entertainment,74.09,Entertainment expense,want
+2024-10-19 05:08:36,2024-10-19,05:08:36,October 2024,Week 42,Shopping,197.19,Shopping expense,want
+2024-10-19 07:21:09,2024-10-19,07:21:09,October 2024,Week 42,Transport,441.96,Transport expense,need
+2024-10-19 22:13:44,2024-10-19,22:13:44,October 2024,Week 42,Travel,286.09,Travel expense,want
+2024-10-19 23:19:39,2024-10-19,23:19:39,October 2024,Week 42,Healthcare,33.41,Healthcare expense,need
+2024-10-20 04:01:29,2024-10-20,04:01:29,October 2024,Week 42,Shopping,418.69,Shopping expense,want
+2024-10-21 02:57:31,2024-10-21,02:57:31,October 2024,Week 43,Groceries,302.54,Groceries expense,need
+2024-10-21 08:14:33,2024-10-21,08:14:33,October 2024,Week 43,Travel,169.11,Travel expense,want
+2024-10-21 11:27:25,2024-10-21,11:27:25,October 2024,Week 43,Dining Out,181.31,Dining Out expense,want
+2024-10-22 17:46:26,2024-10-22,17:46:26,October 2024,Week 43,Subscriptions,28.91,Subscriptions expense,want
+2024-10-22 21:11:15,2024-10-22,21:11:15,October 2024,Week 43,Food Delivery,74.0,Food Delivery expense,want
+2024-10-23 04:56:43,2024-10-23,04:56:43,October 2024,Week 43,Utilities,191.71,Utilities expense,need
+2024-10-23 08:58:42,2024-10-23,08:58:42,October 2024,Week 43,Entertainment,169.16,Entertainment expense,want
+2024-10-23 10:57:02,2024-10-23,10:57:02,October 2024,Week 43,Transport,227.08,Transport expense,need
+2024-10-23 21:48:44,2024-10-23,21:48:44,October 2024,Week 43,Groceries,159.87,Groceries expense,need
+2024-10-24 00:12:00,2024-10-24,00:12:00,October 2024,Week 43,Entertainment,242.17,Entertainment expense,want
+2024-10-24 05:04:47,2024-10-24,05:04:47,October 2024,Week 43,Entertainment,115.35,Entertainment expense,want
+2024-10-24 09:56:20,2024-10-24,09:56:20,October 2024,Week 43,Entertainment,175.32,Entertainment expense,want
+2024-10-24 12:36:12,2024-10-24,12:36:12,October 2024,Week 43,Groceries,190.01,Groceries expense,need
+2024-10-25 00:56:10,2024-10-25,00:56:10,October 2024,Week 43,Groceries,463.82,Groceries expense,need
+2024-10-25 17:46:28,2024-10-25,17:46:28,October 2024,Week 43,Transport,334.58,Transport expense,need
+2024-10-26 03:25:34,2024-10-26,03:25:34,October 2024,Week 43,Transport,197.36,Transport expense,need
+2024-10-26 07:11:10,2024-10-26,07:11:10,October 2024,Week 43,Shopping,146.66,Shopping expense,want
+2024-10-26 20:04:11,2024-10-26,20:04:11,October 2024,Week 43,Travel,64.82,Travel expense,want
+2024-10-27 01:48:36,2024-10-27,01:48:36,October 2024,Week 43,Rent,661.17,Rent expense,need
+2024-10-27 21:00:07,2024-10-27,21:00:07,October 2024,Week 43,Healthcare,296.0,Healthcare expense,need
+2024-10-27 21:55:39,2024-10-27,21:55:39,October 2024,Week 43,Dining Out,62.07,Dining Out expense,want
+2024-10-28 15:04:25,2024-10-28,15:04:25,October 2024,Week 44,Healthcare,33.26,Healthcare expense,need
+2024-10-28 19:10:45,2024-10-28,19:10:45,October 2024,Week 44,Food Delivery,67.95,Food Delivery expense,want
+2024-10-29 15:25:26,2024-10-29,15:25:26,October 2024,Week 44,Subscriptions,18.13,Subscriptions expense,want
+2024-10-30 05:33:29,2024-10-30,05:33:29,October 2024,Week 44,Healthcare,145.92,Healthcare expense,need
+2024-10-30 15:04:23,2024-10-30,15:04:23,October 2024,Week 44,Healthcare,217.41,Healthcare expense,need
+2024-10-30 20:58:20,2024-10-30,20:58:20,October 2024,Week 44,Shopping,379.45,Shopping expense,want
+2024-10-31 02:36:51,2024-10-31,02:36:51,October 2024,Week 44,Dining Out,82.81,Dining Out expense,want
+2024-10-31 07:26:52,2024-10-31,07:26:52,October 2024,Week 44,Dining Out,114.64,Dining Out expense,want
+2024-10-31 08:37:50,2024-10-31,08:37:50,October 2024,Week 44,Shopping,283.64,Shopping expense,want
+2024-10-31 11:20:43,2024-10-31,11:20:43,October 2024,Week 44,Food Delivery,88.26,Food Delivery expense,want
+2024-10-31 12:49:09,2024-10-31,12:49:09,October 2024,Week 44,Dining Out,25.73,Dining Out expense,want
+2024-11-03 03:51:46,2024-11-03,03:51:46,November 2024,Week 44,Healthcare,75.15,Healthcare expense,need
+2024-11-03 23:04:19,2024-11-03,23:04:19,November 2024,Week 44,Utilities,57.23,Utilities expense,need
+2024-11-04 05:01:15,2024-11-04,05:01:15,November 2024,Week 45,Utilities,239.16,Utilities expense,need
+2024-11-04 15:40:20,2024-11-04,15:40:20,November 2024,Week 45,Travel,470.36,Travel expense,want
+2024-11-05 11:14:02,2024-11-05,11:14:02,November 2024,Week 45,Transport,274.53,Transport expense,need
+2024-11-05 17:46:26,2024-11-05,17:46:26,November 2024,Week 45,Subscriptions,49.45,Subscriptions expense,want
+2024-11-06 14:06:18,2024-11-06,14:06:18,November 2024,Week 45,Groceries,331.76,Groceries expense,need
+2024-11-07 16:07:42,2024-11-07,16:07:42,November 2024,Week 45,Travel,742.51,Travel expense,want
+2024-11-08 00:22:06,2024-11-08,00:22:06,November 2024,Week 45,Food Delivery,57.84,Food Delivery expense,want
+2024-11-08 15:22:06,2024-11-08,15:22:06,November 2024,Week 45,Entertainment,128.4,Entertainment expense,want
+2024-11-09 15:55:19,2024-11-09,15:55:19,November 2024,Week 45,Healthcare,275.5,Healthcare expense,need
+2024-11-09 17:22:30,2024-11-09,17:22:30,November 2024,Week 45,Dining Out,155.86,Dining Out expense,want
+2024-11-09 22:26:00,2024-11-09,22:26:00,November 2024,Week 45,Rent,1389.91,Rent expense,need
+2024-11-10 00:59:18,2024-11-10,00:59:18,November 2024,Week 45,Travel,158.1,Travel expense,want
+2024-11-10 02:00:34,2024-11-10,02:00:34,November 2024,Week 45,Subscriptions,40.8,Subscriptions expense,want
+2024-11-10 16:52:26,2024-11-10,16:52:26,November 2024,Week 45,Shopping,31.12,Shopping expense,want
+2024-11-10 17:04:09,2024-11-10,17:04:09,November 2024,Week 45,Entertainment,116.18,Entertainment expense,want
+2024-11-10 22:28:26,2024-11-10,22:28:26,November 2024,Week 45,Travel,366.94,Travel expense,want
+2024-11-12 20:09:24,2024-11-12,20:09:24,November 2024,Week 46,Travel,285.27,Travel expense,want
+2024-11-12 21:40:43,2024-11-12,21:40:43,November 2024,Week 46,Shopping,468.41,Shopping expense,want
+2024-11-13 07:05:09,2024-11-13,07:05:09,November 2024,Week 46,Rent,863.97,Rent expense,need
+2024-11-14 05:10:11,2024-11-14,05:10:11,November 2024,Week 46,Entertainment,200.69,Entertainment expense,want
+2024-11-14 08:19:52,2024-11-14,08:19:52,November 2024,Week 46,Entertainment,191.1,Entertainment expense,want
+2024-11-14 08:26:19,2024-11-14,08:26:19,November 2024,Week 46,Entertainment,206.35,Entertainment expense,want
+2024-11-15 00:48:52,2024-11-15,00:48:52,November 2024,Week 46,Shopping,350.88,Shopping expense,want
+2024-11-15 01:22:45,2024-11-15,01:22:45,November 2024,Week 46,Groceries,267.47,Groceries expense,need
+2024-11-15 09:29:28,2024-11-15,09:29:28,November 2024,Week 46,Rent,1364.22,Rent expense,need
+2024-11-15 12:10:25,2024-11-15,12:10:25,November 2024,Week 46,Healthcare,274.46,Healthcare expense,need
+2024-11-15 12:42:30,2024-11-15,12:42:30,November 2024,Week 46,Food Delivery,95.43,Food Delivery expense,want
+2024-11-16 12:11:16,2024-11-16,12:11:16,November 2024,Week 46,Utilities,241.05,Utilities expense,need
+2024-11-18 10:30:52,2024-11-18,10:30:52,November 2024,Week 47,Healthcare,297.7,Healthcare expense,need
+2024-11-18 13:30:15,2024-11-18,13:30:15,November 2024,Week 47,Groceries,248.16,Groceries expense,need
+2024-11-19 07:25:18,2024-11-19,07:25:18,November 2024,Week 47,Food Delivery,43.23,Food Delivery expense,want
+2024-11-19 14:50:52,2024-11-19,14:50:52,November 2024,Week 47,Dining Out,106.3,Dining Out expense,want
+2024-11-19 23:25:10,2024-11-19,23:25:10,November 2024,Week 47,Subscriptions,6.72,Subscriptions expense,want
+2024-11-20 04:31:51,2024-11-20,04:31:51,November 2024,Week 47,Healthcare,34.82,Healthcare expense,need
+2024-11-20 07:53:25,2024-11-20,07:53:25,November 2024,Week 47,Subscriptions,48.26,Subscriptions expense,want
+2024-11-20 12:10:19,2024-11-20,12:10:19,November 2024,Week 47,Utilities,299.48,Utilities expense,need
+2024-11-21 04:05:31,2024-11-21,04:05:31,November 2024,Week 47,Rent,836.24,Rent expense,need
+2024-11-23 04:03:20,2024-11-23,04:03:20,November 2024,Week 47,Entertainment,266.08,Entertainment expense,want
+2024-11-23 12:39:53,2024-11-23,12:39:53,November 2024,Week 47,Travel,288.87,Travel expense,want
+2024-11-24 14:36:19,2024-11-24,14:36:19,November 2024,Week 47,Rent,778.92,Rent expense,need
+2024-11-26 09:17:18,2024-11-26,09:17:18,November 2024,Week 48,Transport,464.42,Transport expense,need
+2024-11-26 16:34:09,2024-11-26,16:34:09,November 2024,Week 48,Transport,460.72,Transport expense,need
+2024-11-27 02:02:29,2024-11-27,02:02:29,November 2024,Week 48,Food Delivery,15.57,Food Delivery expense,want
+2024-11-27 19:22:04,2024-11-27,19:22:04,November 2024,Week 48,Utilities,222.97,Utilities expense,need
+2024-11-28 04:06:45,2024-11-28,04:06:45,November 2024,Week 48,Food Delivery,10.1,Food Delivery expense,want
+2024-11-28 13:42:46,2024-11-28,13:42:46,November 2024,Week 48,Shopping,248.09,Shopping expense,want
+2024-11-30 00:31:45,2024-11-30,00:31:45,November 2024,Week 48,Transport,452.42,Transport expense,need
+2024-11-30 01:51:16,2024-11-30,01:51:16,November 2024,Week 48,Dining Out,154.36,Dining Out expense,want
+2024-12-01 04:40:14,2024-12-01,04:40:14,December 2024,Week 48,Subscriptions,48.32,Subscriptions expense,want
+2024-12-01 12:13:26,2024-12-01,12:13:26,December 2024,Week 48,Rent,835.39,Rent expense,need
+2024-12-01 20:37:25,2024-12-01,20:37:25,December 2024,Week 48,Entertainment,26.95,Entertainment expense,want
+2024-12-01 21:27:07,2024-12-01,21:27:07,December 2024,Week 48,Utilities,133.2,Utilities expense,need
+2024-12-02 00:01:52,2024-12-02,00:01:52,December 2024,Week 49,Subscriptions,40.6,Subscriptions expense,want
+2024-12-02 14:58:53,2024-12-02,14:58:53,December 2024,Week 49,Healthcare,184.99,Healthcare expense,need
+2024-12-03 02:03:09,2024-12-03,02:03:09,December 2024,Week 49,Transport,471.06,Transport expense,need
+2024-12-03 14:34:53,2024-12-03,14:34:53,December 2024,Week 49,Healthcare,97.84,Healthcare expense,need
+2024-12-06 03:44:11,2024-12-06,03:44:11,December 2024,Week 49,Dining Out,118.98,Dining Out expense,want
+2024-12-06 10:50:00,2024-12-06,10:50:00,December 2024,Week 49,Subscriptions,49.81,Subscriptions expense,want
+2024-12-06 14:03:01,2024-12-06,14:03:01,December 2024,Week 49,Rent,1472.49,Rent expense,need
+2024-12-07 02:26:25,2024-12-07,02:26:25,December 2024,Week 49,Rent,795.96,Rent expense,need
+2024-12-07 11:47:52,2024-12-07,11:47:52,December 2024,Week 49,Food Delivery,61.47,Food Delivery expense,want
+2024-12-07 14:44:10,2024-12-07,14:44:10,December 2024,Week 49,Subscriptions,18.29,Subscriptions expense,want
+2024-12-08 07:40:51,2024-12-08,07:40:51,December 2024,Week 49,Dining Out,105.17,Dining Out expense,want
+2024-12-08 07:50:33,2024-12-08,07:50:33,December 2024,Week 49,Utilities,204.15,Utilities expense,need
+2024-12-08 16:52:32,2024-12-08,16:52:32,December 2024,Week 49,Healthcare,255.35,Healthcare expense,need
+2024-12-09 04:47:49,2024-12-09,04:47:49,December 2024,Week 50,Groceries,385.81,Groceries expense,need
+2024-12-09 07:21:39,2024-12-09,07:21:39,December 2024,Week 50,Entertainment,157.93,Entertainment expense,want
+2024-12-09 12:03:28,2024-12-09,12:03:28,December 2024,Week 50,Transport,437.81,Transport expense,need
+2024-12-10 16:55:00,2024-12-10,16:55:00,December 2024,Week 50,Food Delivery,54.73,Food Delivery expense,want
+2024-12-10 21:20:45,2024-12-10,21:20:45,December 2024,Week 50,Healthcare,142.03,Healthcare expense,need
+2024-12-11 04:01:47,2024-12-11,04:01:47,December 2024,Week 50,Dining Out,76.22,Dining Out expense,want
+2024-12-11 18:27:15,2024-12-11,18:27:15,December 2024,Week 50,Shopping,134.61,Shopping expense,want
+2024-12-12 13:38:38,2024-12-12,13:38:38,December 2024,Week 50,Groceries,156.32,Groceries expense,need
+2024-12-12 21:54:47,2024-12-12,21:54:47,December 2024,Week 50,Utilities,255.49,Utilities expense,need
+2024-12-12 23:30:49,2024-12-12,23:30:49,December 2024,Week 50,Entertainment,124.11,Entertainment expense,want
+2024-12-13 01:29:50,2024-12-13,01:29:50,December 2024,Week 50,Healthcare,283.27,Healthcare expense,need
+2024-12-13 02:50:28,2024-12-13,02:50:28,December 2024,Week 50,Utilities,244.73,Utilities expense,need
+2024-12-13 20:53:15,2024-12-13,20:53:15,December 2024,Week 50,Shopping,319.42,Shopping expense,want
+2024-12-14 00:44:45,2024-12-14,00:44:45,December 2024,Week 50,Utilities,222.53,Utilities expense,need
+2024-12-14 09:13:56,2024-12-14,09:13:56,December 2024,Week 50,Dining Out,96.51,Dining Out expense,want
+2024-12-14 23:34:36,2024-12-14,23:34:36,December 2024,Week 50,Food Delivery,17.85,Food Delivery expense,want
+2024-12-15 00:01:36,2024-12-15,00:01:36,December 2024,Week 50,Healthcare,34.84,Healthcare expense,need
+2024-12-15 04:20:57,2024-12-15,04:20:57,December 2024,Week 50,Food Delivery,71.56,Food Delivery expense,want
+2024-12-15 04:51:09,2024-12-15,04:51:09,December 2024,Week 50,Groceries,225.29,Groceries expense,need
+2024-12-16 01:40:51,2024-12-16,01:40:51,December 2024,Week 51,Dining Out,157.05,Dining Out expense,want
+2024-12-16 08:44:35,2024-12-16,08:44:35,December 2024,Week 51,Groceries,50.56,Groceries expense,need
+2024-12-16 16:25:47,2024-12-16,16:25:47,December 2024,Week 51,Rent,812.38,Rent expense,need
+2024-12-17 04:51:37,2024-12-17,04:51:37,December 2024,Week 51,Food Delivery,90.01,Food Delivery expense,want
+2024-12-17 12:11:03,2024-12-17,12:11:03,December 2024,Week 51,Dining Out,72.51,Dining Out expense,want
+2024-12-17 19:41:36,2024-12-17,19:41:36,December 2024,Week 51,Healthcare,190.46,Healthcare expense,need
+2024-12-17 23:48:11,2024-12-17,23:48:11,December 2024,Week 51,Subscriptions,42.42,Subscriptions expense,want
+2024-12-18 01:57:24,2024-12-18,01:57:24,December 2024,Week 51,Transport,365.97,Transport expense,need
+2024-12-18 05:17:47,2024-12-18,05:17:47,December 2024,Week 51,Transport,119.18,Transport expense,need
+2024-12-18 13:18:59,2024-12-18,13:18:59,December 2024,Week 51,Travel,806.88,Travel expense,want
+2024-12-19 02:49:13,2024-12-19,02:49:13,December 2024,Week 51,Transport,457.86,Transport expense,need
+2024-12-20 21:14:11,2024-12-20,21:14:11,December 2024,Week 51,Shopping,389.26,Shopping expense,want
+2024-12-21 08:17:59,2024-12-21,08:17:59,December 2024,Week 51,Rent,553.8,Rent expense,need
+2024-12-21 08:55:52,2024-12-21,08:55:52,December 2024,Week 51,Shopping,49.62,Shopping expense,want
+2024-12-21 16:35:00,2024-12-21,16:35:00,December 2024,Week 51,Travel,273.85,Travel expense,want
+2024-12-23 03:44:23,2024-12-23,03:44:23,December 2024,Week 52,Entertainment,277.96,Entertainment expense,want
+2024-12-23 18:23:03,2024-12-23,18:23:03,December 2024,Week 52,Entertainment,245.49,Entertainment expense,want
+2024-12-24 09:19:44,2024-12-24,09:19:44,December 2024,Week 52,Utilities,216.81,Utilities expense,need
+2024-12-24 17:55:37,2024-12-24,17:55:37,December 2024,Week 52,Rent,1990.1,Rent expense,need
+2024-12-25 12:16:23,2024-12-25,12:16:23,December 2024,Week 52,Travel,253.38,Travel expense,want
+2024-12-26 12:10:04,2024-12-26,12:10:04,December 2024,Week 52,Rent,590.61,Rent expense,need
+2024-12-26 22:13:00,2024-12-26,22:13:00,December 2024,Week 52,Travel,494.09,Travel expense,want
+2024-12-27 05:07:07,2024-12-27,05:07:07,December 2024,Week 52,Groceries,116.38,Groceries expense,need
+2024-12-27 08:26:08,2024-12-27,08:26:08,December 2024,Week 52,Entertainment,154.15,Entertainment expense,want
+2024-12-28 10:46:15,2024-12-28,10:46:15,December 2024,Week 52,Groceries,128.11,Groceries expense,need
+2024-12-30 05:01:07,2024-12-30,05:01:07,December 2024,Week 1,Subscriptions,22.71,Subscriptions expense,want
+2024-12-30 15:14:17,2024-12-30,15:14:17,December 2024,Week 1,Dining Out,30.06,Dining Out expense,want
+2024-12-31 18:35:56,2024-12-31,18:35:56,December 2024,Week 1,Transport,99.01,Transport expense,need
+2025-01-01 19:00:02,2025-01-01,19:00:02,January 2025,Week 1,Subscriptions,19.75,Subscriptions expense,want
+2025-01-01 19:58:06,2025-01-01,19:58:06,January 2025,Week 1,Utilities,165.36,Utilities expense,need
+2025-01-01 20:30:27,2025-01-01,20:30:27,January 2025,Week 1,Healthcare,208.77,Healthcare expense,need
+2025-01-02 07:09:10,2025-01-02,07:09:10,January 2025,Week 1,Transport,292.95,Transport expense,need
+2025-01-02 13:22:01,2025-01-02,13:22:01,January 2025,Week 1,Subscriptions,8.12,Subscriptions expense,want
+2025-01-02 17:27:02,2025-01-02,17:27:02,January 2025,Week 1,Rent,1474.18,Rent expense,need
+2025-01-02 22:33:20,2025-01-02,22:33:20,January 2025,Week 1,Utilities,268.75,Utilities expense,need
+2025-01-04 00:58:28,2025-01-04,00:58:28,January 2025,Week 1,Transport,344.31,Transport expense,need
+2025-01-04 13:28:18,2025-01-04,13:28:18,January 2025,Week 1,Rent,1974.44,Rent expense,need
+2025-01-05 03:14:03,2025-01-05,03:14:03,January 2025,Week 1,Dining Out,173.06,Dining Out expense,want
+2025-01-05 04:27:03,2025-01-05,04:27:03,January 2025,Week 1,Utilities,75.86,Utilities expense,need
+2025-01-05 07:19:01,2025-01-05,07:19:01,January 2025,Week 1,Transport,291.23,Transport expense,need
+2025-01-05 09:02:51,2025-01-05,09:02:51,January 2025,Week 1,Rent,1849.29,Rent expense,need
+2025-01-07 08:52:17,2025-01-07,08:52:17,January 2025,Week 2,Subscriptions,5.7,Subscriptions expense,want
+2025-01-07 09:06:07,2025-01-07,09:06:07,January 2025,Week 2,Subscriptions,12.67,Subscriptions expense,want
+2025-01-07 09:17:08,2025-01-07,09:17:08,January 2025,Week 2,Entertainment,241.39,Entertainment expense,want
+2025-01-07 12:38:55,2025-01-07,12:38:55,January 2025,Week 2,Shopping,52.48,Shopping expense,want
+2025-01-07 18:59:42,2025-01-07,18:59:42,January 2025,Week 2,Subscriptions,35.65,Subscriptions expense,want
+2025-01-08 07:28:51,2025-01-08,07:28:51,January 2025,Week 2,Food Delivery,15.1,Food Delivery expense,want
+2025-01-08 07:40:25,2025-01-08,07:40:25,January 2025,Week 2,Shopping,188.61,Shopping expense,want
+2025-01-08 18:59:36,2025-01-08,18:59:36,January 2025,Week 2,Rent,1549.07,Rent expense,need
+2025-01-09 04:40:09,2025-01-09,04:40:09,January 2025,Week 2,Transport,165.3,Transport expense,need
+2025-01-09 07:42:15,2025-01-09,07:42:15,January 2025,Week 2,Shopping,209.75,Shopping expense,want
+2025-01-09 21:20:05,2025-01-09,21:20:05,January 2025,Week 2,Dining Out,185.63,Dining Out expense,want
+2025-01-10 01:24:13,2025-01-10,01:24:13,January 2025,Week 2,Utilities,203.89,Utilities expense,need
+2025-01-10 05:45:24,2025-01-10,05:45:24,January 2025,Week 2,Food Delivery,26.3,Food Delivery expense,want
+2025-01-10 16:23:30,2025-01-10,16:23:30,January 2025,Week 2,Entertainment,54.66,Entertainment expense,want
+2025-01-10 21:55:20,2025-01-10,21:55:20,January 2025,Week 2,Dining Out,171.4,Dining Out expense,want
+2025-01-11 20:36:27,2025-01-11,20:36:27,January 2025,Week 2,Entertainment,217.93,Entertainment expense,want
+2025-01-12 07:49:48,2025-01-12,07:49:48,January 2025,Week 2,Transport,55.29,Transport expense,need
+2025-01-12 08:08:10,2025-01-12,08:08:10,January 2025,Week 2,Healthcare,164.13,Healthcare expense,need
+2025-01-12 08:43:59,2025-01-12,08:43:59,January 2025,Week 2,Shopping,209.01,Shopping expense,want
+2025-01-13 10:25:07,2025-01-13,10:25:07,January 2025,Week 3,Healthcare,155.91,Healthcare expense,need
+2025-01-13 14:18:35,2025-01-13,14:18:35,January 2025,Week 3,Subscriptions,40.01,Subscriptions expense,want
+2025-01-13 19:04:53,2025-01-13,19:04:53,January 2025,Week 3,Travel,896.25,Travel expense,want
+2025-01-14 00:16:44,2025-01-14,00:16:44,January 2025,Week 3,Food Delivery,40.47,Food Delivery expense,want
+2025-01-14 20:58:00,2025-01-14,20:58:00,January 2025,Week 3,Rent,805.5,Rent expense,need
+2025-01-15 10:32:22,2025-01-15,10:32:22,January 2025,Week 3,Groceries,237.56,Groceries expense,need
+2025-01-15 14:04:48,2025-01-15,14:04:48,January 2025,Week 3,Healthcare,77.96,Healthcare expense,need
+2025-01-16 17:31:25,2025-01-16,17:31:25,January 2025,Week 3,Subscriptions,39.72,Subscriptions expense,want
+2025-01-16 18:39:19,2025-01-16,18:39:19,January 2025,Week 3,Rent,1634.25,Rent expense,need
+2025-01-17 03:21:19,2025-01-17,03:21:19,January 2025,Week 3,Entertainment,57.94,Entertainment expense,want
+2025-01-18 16:13:56,2025-01-18,16:13:56,January 2025,Week 3,Rent,565.78,Rent expense,need
+2025-01-18 19:18:04,2025-01-18,19:18:04,January 2025,Week 3,Shopping,72.36,Shopping expense,want
+2025-01-19 06:22:44,2025-01-19,06:22:44,January 2025,Week 3,Subscriptions,14.69,Subscriptions expense,want
+2025-01-19 07:41:58,2025-01-19,07:41:58,January 2025,Week 3,Travel,519.27,Travel expense,want
+2025-01-19 15:43:18,2025-01-19,15:43:18,January 2025,Week 3,Subscriptions,35.49,Subscriptions expense,want
+2025-01-20 03:41:54,2025-01-20,03:41:54,January 2025,Week 4,Shopping,467.1,Shopping expense,want
+2025-01-20 08:11:47,2025-01-20,08:11:47,January 2025,Week 4,Transport,370.85,Transport expense,need
+2025-01-21 10:47:09,2025-01-21,10:47:09,January 2025,Week 4,Healthcare,237.0,Healthcare expense,need
+2025-01-21 12:46:14,2025-01-21,12:46:14,January 2025,Week 4,Transport,395.96,Transport expense,need
+2025-01-21 16:25:08,2025-01-21,16:25:08,January 2025,Week 4,Shopping,377.74,Shopping expense,want
+2025-01-21 19:47:07,2025-01-21,19:47:07,January 2025,Week 4,Travel,764.26,Travel expense,want
+2025-01-21 21:07:58,2025-01-21,21:07:58,January 2025,Week 4,Transport,177.17,Transport expense,need
+2025-01-23 08:04:48,2025-01-23,08:04:48,January 2025,Week 4,Shopping,327.52,Shopping expense,want
+2025-01-23 11:59:51,2025-01-23,11:59:51,January 2025,Week 4,Entertainment,236.39,Entertainment expense,want
+2025-01-23 21:02:34,2025-01-23,21:02:34,January 2025,Week 4,Food Delivery,61.4,Food Delivery expense,want
+2025-01-24 17:07:28,2025-01-24,17:07:28,January 2025,Week 4,Utilities,182.01,Utilities expense,need
+2025-01-25 20:35:01,2025-01-25,20:35:01,January 2025,Week 4,Rent,1039.17,Rent expense,need
+2025-01-26 04:27:52,2025-01-26,04:27:52,January 2025,Week 4,Entertainment,256.2,Entertainment expense,want
+2025-01-26 11:16:55,2025-01-26,11:16:55,January 2025,Week 4,Subscriptions,32.78,Subscriptions expense,want
+2025-01-28 13:30:32,2025-01-28,13:30:32,January 2025,Week 5,Entertainment,175.32,Entertainment expense,want
+2025-01-28 19:49:46,2025-01-28,19:49:46,January 2025,Week 5,Travel,597.17,Travel expense,want
+2025-01-28 20:36:27,2025-01-28,20:36:27,January 2025,Week 5,Entertainment,121.28,Entertainment expense,want
+2025-01-29 04:55:07,2025-01-29,04:55:07,January 2025,Week 5,Shopping,138.72,Shopping expense,want
+2025-01-29 07:34:15,2025-01-29,07:34:15,January 2025,Week 5,Food Delivery,33.02,Food Delivery expense,want
+2025-01-29 10:27:27,2025-01-29,10:27:27,January 2025,Week 5,Dining Out,21.46,Dining Out expense,want
+2025-02-01 14:20:04,2025-02-01,14:20:04,February 2025,Week 5,Subscriptions,12.43,Subscriptions expense,want
+2025-02-01 18:25:42,2025-02-01,18:25:42,February 2025,Week 5,Travel,966.11,Travel expense,want
+2025-02-02 16:12:19,2025-02-02,16:12:19,February 2025,Week 5,Groceries,308.21,Groceries expense,need
+2025-02-02 19:27:52,2025-02-02,19:27:52,February 2025,Week 5,Subscriptions,17.27,Subscriptions expense,want
+2025-02-02 21:25:04,2025-02-02,21:25:04,February 2025,Week 5,Dining Out,93.22,Dining Out expense,want
+2025-02-03 07:10:49,2025-02-03,07:10:49,February 2025,Week 6,Healthcare,194.81,Healthcare expense,need
+2025-02-03 07:18:05,2025-02-03,07:18:05,February 2025,Week 6,Entertainment,74.65,Entertainment expense,want
+2025-02-03 07:44:45,2025-02-03,07:44:45,February 2025,Week 6,Healthcare,118.46,Healthcare expense,need
+2025-02-03 10:02:46,2025-02-03,10:02:46,February 2025,Week 6,Rent,1079.83,Rent expense,need
+2025-02-03 20:50:31,2025-02-03,20:50:31,February 2025,Week 6,Healthcare,116.43,Healthcare expense,need
+2025-02-04 00:49:56,2025-02-04,00:49:56,February 2025,Week 6,Entertainment,286.58,Entertainment expense,want
+2025-02-04 19:05:11,2025-02-04,19:05:11,February 2025,Week 6,Transport,133.65,Transport expense,need
+2025-02-05 23:38:34,2025-02-05,23:38:34,February 2025,Week 6,Travel,645.66,Travel expense,want
+2025-02-06 00:41:24,2025-02-06,00:41:24,February 2025,Week 6,Travel,591.15,Travel expense,want
+2025-02-06 03:39:49,2025-02-06,03:39:49,February 2025,Week 6,Subscriptions,13.1,Subscriptions expense,want
+2025-02-07 00:25:53,2025-02-07,00:25:53,February 2025,Week 6,Transport,393.13,Transport expense,need
+2025-02-07 09:55:00,2025-02-07,09:55:00,February 2025,Week 6,Rent,1758.38,Rent expense,need
+2025-02-07 23:48:32,2025-02-07,23:48:32,February 2025,Week 6,Rent,1929.61,Rent expense,need
+2025-02-08 12:41:05,2025-02-08,12:41:05,February 2025,Week 6,Groceries,366.15,Groceries expense,need
+2025-02-08 13:22:50,2025-02-08,13:22:50,February 2025,Week 6,Food Delivery,94.24,Food Delivery expense,want
+2025-02-09 11:51:46,2025-02-09,11:51:46,February 2025,Week 6,Entertainment,104.28,Entertainment expense,want
+2025-02-10 04:05:44,2025-02-10,04:05:44,February 2025,Week 7,Utilities,149.41,Utilities expense,need
+2025-02-10 10:55:14,2025-02-10,10:55:14,February 2025,Week 7,Subscriptions,22.53,Subscriptions expense,want
+2025-02-10 22:58:14,2025-02-10,22:58:14,February 2025,Week 7,Entertainment,225.69,Entertainment expense,want
+2025-02-11 11:20:19,2025-02-11,11:20:19,February 2025,Week 7,Transport,308.14,Transport expense,need
+2025-02-11 15:19:31,2025-02-11,15:19:31,February 2025,Week 7,Shopping,470.9,Shopping expense,want
+2025-02-11 18:04:44,2025-02-11,18:04:44,February 2025,Week 7,Utilities,123.55,Utilities expense,need
+2025-02-12 00:25:44,2025-02-12,00:25:44,February 2025,Week 7,Transport,441.54,Transport expense,need
+2025-02-12 01:35:06,2025-02-12,01:35:06,February 2025,Week 7,Travel,884.66,Travel expense,want
+2025-02-12 23:36:19,2025-02-12,23:36:19,February 2025,Week 7,Shopping,159.09,Shopping expense,want
+2025-02-14 23:47:21,2025-02-14,23:47:21,February 2025,Week 7,Rent,1077.46,Rent expense,need
+2025-02-15 01:24:51,2025-02-15,01:24:51,February 2025,Week 7,Shopping,425.74,Shopping expense,want
+2025-02-15 01:58:44,2025-02-15,01:58:44,February 2025,Week 7,Utilities,95.09,Utilities expense,need
+2025-02-15 06:35:24,2025-02-15,06:35:24,February 2025,Week 7,Transport,425.27,Transport expense,need
+2025-02-15 14:53:38,2025-02-15,14:53:38,February 2025,Week 7,Subscriptions,47.34,Subscriptions expense,want
+2025-02-15 16:55:54,2025-02-15,16:55:54,February 2025,Week 7,Healthcare,30.33,Healthcare expense,need
+2025-02-15 23:15:51,2025-02-15,23:15:51,February 2025,Week 7,Utilities,121.44,Utilities expense,need
+2025-02-16 00:22:39,2025-02-16,00:22:39,February 2025,Week 7,Travel,419.24,Travel expense,want
+2025-02-16 01:29:45,2025-02-16,01:29:45,February 2025,Week 7,Travel,713.73,Travel expense,want
+2025-02-16 06:04:20,2025-02-16,06:04:20,February 2025,Week 7,Transport,429.16,Transport expense,need
+2025-02-17 06:57:34,2025-02-17,06:57:34,February 2025,Week 8,Healthcare,41.27,Healthcare expense,need
+2025-02-17 06:59:23,2025-02-17,06:59:23,February 2025,Week 8,Travel,91.06,Travel expense,want
+2025-02-17 08:22:30,2025-02-17,08:22:30,February 2025,Week 8,Food Delivery,5.87,Food Delivery expense,want
+2025-02-19 10:59:27,2025-02-19,10:59:27,February 2025,Week 8,Subscriptions,15.3,Subscriptions expense,want
+2025-02-19 11:52:51,2025-02-19,11:52:51,February 2025,Week 8,Subscriptions,15.36,Subscriptions expense,want
+2025-02-20 21:54:29,2025-02-20,21:54:29,February 2025,Week 8,Utilities,221.41,Utilities expense,need
+2025-02-21 03:15:10,2025-02-21,03:15:10,February 2025,Week 8,Healthcare,80.26,Healthcare expense,need
+2025-02-21 04:55:08,2025-02-21,04:55:08,February 2025,Week 8,Subscriptions,34.92,Subscriptions expense,want
+2025-02-21 23:48:56,2025-02-21,23:48:56,February 2025,Week 8,Travel,185.73,Travel expense,want
+2025-02-22 06:58:00,2025-02-22,06:58:00,February 2025,Week 8,Dining Out,14.38,Dining Out expense,want
+2025-02-22 08:18:49,2025-02-22,08:18:49,February 2025,Week 8,Dining Out,171.46,Dining Out expense,want
+2025-02-23 22:32:55,2025-02-23,22:32:55,February 2025,Week 8,Entertainment,43.23,Entertainment expense,want
+2025-02-24 17:41:29,2025-02-24,17:41:29,February 2025,Week 9,Healthcare,282.06,Healthcare expense,need
+2025-02-25 02:52:32,2025-02-25,02:52:32,February 2025,Week 9,Entertainment,86.86,Entertainment expense,want
+2025-02-25 23:35:57,2025-02-25,23:35:57,February 2025,Week 9,Dining Out,53.64,Dining Out expense,want
+2025-02-26 03:02:59,2025-02-26,03:02:59,February 2025,Week 9,Groceries,402.8,Groceries expense,need
+2025-02-27 00:41:59,2025-02-27,00:41:59,February 2025,Week 9,Subscriptions,20.35,Subscriptions expense,want
+2025-02-27 01:41:06,2025-02-27,01:41:06,February 2025,Week 9,Utilities,116.79,Utilities expense,need
+2025-02-27 07:23:14,2025-02-27,07:23:14,February 2025,Week 9,Entertainment,47.14,Entertainment expense,want
+2025-02-27 07:45:25,2025-02-27,07:45:25,February 2025,Week 9,Shopping,156.82,Shopping expense,want
+2025-02-27 21:54:25,2025-02-27,21:54:25,February 2025,Week 9,Rent,1564.96,Rent expense,need
+2025-02-28 10:13:40,2025-02-28,10:13:40,February 2025,Week 9,Dining Out,54.09,Dining Out expense,want
+2025-02-28 14:32:00,2025-02-28,14:32:00,February 2025,Week 9,Healthcare,79.01,Healthcare expense,need
+2025-03-02 05:04:15,2025-03-02,05:04:15,March 2025,Week 9,Travel,648.85,Travel expense,want
+2025-03-02 14:43:09,2025-03-02,14:43:09,March 2025,Week 9,Travel,630.64,Travel expense,want
+2025-03-03 01:26:03,2025-03-03,01:26:03,March 2025,Week 10,Utilities,161.16,Utilities expense,need
+2025-03-05 13:39:56,2025-03-05,13:39:56,March 2025,Week 10,Transport,356.05,Transport expense,need
+2025-03-05 13:49:18,2025-03-05,13:49:18,March 2025,Week 10,Transport,438.65,Transport expense,need
+2025-03-06 03:57:30,2025-03-06,03:57:30,March 2025,Week 10,Dining Out,179.72,Dining Out expense,want
+2025-03-06 10:19:38,2025-03-06,10:19:38,March 2025,Week 10,Rent,568.15,Rent expense,need
+2025-03-06 21:48:33,2025-03-06,21:48:33,March 2025,Week 10,Entertainment,120.35,Entertainment expense,want
+2025-03-06 22:11:37,2025-03-06,22:11:37,March 2025,Week 10,Rent,1975.07,Rent expense,need
+2025-03-06 23:37:09,2025-03-06,23:37:09,March 2025,Week 10,Food Delivery,60.13,Food Delivery expense,want
+2025-03-07 20:00:58,2025-03-07,20:00:58,March 2025,Week 10,Food Delivery,73.84,Food Delivery expense,want
+2025-03-08 13:44:22,2025-03-08,13:44:22,March 2025,Week 10,Subscriptions,37.57,Subscriptions expense,want
+2025-03-08 16:08:16,2025-03-08,16:08:16,March 2025,Week 10,Dining Out,178.01,Dining Out expense,want
+2025-03-08 22:14:27,2025-03-08,22:14:27,March 2025,Week 10,Entertainment,31.84,Entertainment expense,want
+2025-03-09 05:37:40,2025-03-09,05:37:40,March 2025,Week 10,Utilities,106.81,Utilities expense,need
+2025-03-09 07:01:06,2025-03-09,07:01:06,March 2025,Week 10,Rent,1200.75,Rent expense,need
+2025-03-09 14:51:53,2025-03-09,14:51:53,March 2025,Week 10,Utilities,165.03,Utilities expense,need
+2025-03-10 04:33:36,2025-03-10,04:33:36,March 2025,Week 11,Transport,449.75,Transport expense,need
+2025-03-10 09:22:02,2025-03-10,09:22:02,March 2025,Week 11,Entertainment,286.31,Entertainment expense,want
+2025-03-10 13:35:34,2025-03-10,13:35:34,March 2025,Week 11,Subscriptions,15.43,Subscriptions expense,want
+2025-03-10 16:53:54,2025-03-10,16:53:54,March 2025,Week 11,Groceries,303.28,Groceries expense,need
+2025-03-11 00:46:25,2025-03-11,00:46:25,March 2025,Week 11,Groceries,251.76,Groceries expense,need
+2025-03-11 02:20:17,2025-03-11,02:20:17,March 2025,Week 11,Transport,440.06,Transport expense,need
+2025-03-11 15:24:17,2025-03-11,15:24:17,March 2025,Week 11,Shopping,352.69,Shopping expense,want
+2025-03-11 23:34:33,2025-03-11,23:34:33,March 2025,Week 11,Groceries,419.73,Groceries expense,need
+2025-03-12 07:28:47,2025-03-12,07:28:47,March 2025,Week 11,Food Delivery,98.0,Food Delivery expense,want
+2025-03-12 13:31:25,2025-03-12,13:31:25,March 2025,Week 11,Subscriptions,33.78,Subscriptions expense,want
+2025-03-13 15:22:02,2025-03-13,15:22:02,March 2025,Week 11,Transport,382.27,Transport expense,need
+2025-03-13 23:48:27,2025-03-13,23:48:27,March 2025,Week 11,Rent,888.72,Rent expense,need
+2025-03-14 03:14:18,2025-03-14,03:14:18,March 2025,Week 11,Transport,214.81,Transport expense,need
+2025-03-14 04:34:13,2025-03-14,04:34:13,March 2025,Week 11,Subscriptions,14.2,Subscriptions expense,want
+2025-03-14 12:50:58,2025-03-14,12:50:58,March 2025,Week 11,Rent,591.35,Rent expense,need
+2025-03-14 20:07:36,2025-03-14,20:07:36,March 2025,Week 11,Healthcare,224.92,Healthcare expense,need
+2025-03-16 02:28:57,2025-03-16,02:28:57,March 2025,Week 11,Groceries,286.45,Groceries expense,need
+2025-03-16 03:20:33,2025-03-16,03:20:33,March 2025,Week 11,Healthcare,68.18,Healthcare expense,need
+2025-03-16 07:34:21,2025-03-16,07:34:21,March 2025,Week 11,Entertainment,273.23,Entertainment expense,want
+2025-03-16 15:13:35,2025-03-16,15:13:35,March 2025,Week 11,Food Delivery,33.36,Food Delivery expense,want
+2025-03-16 21:17:47,2025-03-16,21:17:47,March 2025,Week 11,Subscriptions,39.7,Subscriptions expense,want
+2025-03-17 04:12:51,2025-03-17,04:12:51,March 2025,Week 12,Healthcare,158.06,Healthcare expense,need
+2025-03-17 18:15:06,2025-03-17,18:15:06,March 2025,Week 12,Dining Out,85.65,Dining Out expense,want
+2025-03-18 02:49:12,2025-03-18,02:49:12,March 2025,Week 12,Groceries,413.43,Groceries expense,need
+2025-03-19 15:15:03,2025-03-19,15:15:03,March 2025,Week 12,Healthcare,99.53,Healthcare expense,need
+2025-03-19 22:06:04,2025-03-19,22:06:04,March 2025,Week 12,Dining Out,103.9,Dining Out expense,want
+2025-03-19 23:59:32,2025-03-19,23:59:32,March 2025,Week 12,Entertainment,139.38,Entertainment expense,want
+2025-03-20 08:59:46,2025-03-20,08:59:46,March 2025,Week 12,Healthcare,288.18,Healthcare expense,need
+2025-03-20 16:15:53,2025-03-20,16:15:53,March 2025,Week 12,Rent,864.07,Rent expense,need
+2025-03-21 13:39:37,2025-03-21,13:39:37,March 2025,Week 12,Subscriptions,36.5,Subscriptions expense,want
+2025-03-21 14:38:31,2025-03-21,14:38:31,March 2025,Week 12,Food Delivery,40.94,Food Delivery expense,want
+2025-03-21 18:02:08,2025-03-21,18:02:08,March 2025,Week 12,Shopping,26.19,Shopping expense,want
+2025-03-22 06:01:34,2025-03-22,06:01:34,March 2025,Week 12,Transport,115.24,Transport expense,need
+2025-03-22 18:27:45,2025-03-22,18:27:45,March 2025,Week 12,Entertainment,250.76,Entertainment expense,want
+2025-03-23 04:42:14,2025-03-23,04:42:14,March 2025,Week 12,Food Delivery,95.05,Food Delivery expense,want
+2025-03-23 13:03:43,2025-03-23,13:03:43,March 2025,Week 12,Dining Out,72.55,Dining Out expense,want
+2025-03-23 14:19:48,2025-03-23,14:19:48,March 2025,Week 12,Healthcare,85.4,Healthcare expense,need
+2025-03-23 15:31:11,2025-03-23,15:31:11,March 2025,Week 12,Entertainment,191.4,Entertainment expense,want
+2025-03-23 21:10:15,2025-03-23,21:10:15,March 2025,Week 12,Subscriptions,40.33,Subscriptions expense,want
+2025-03-24 09:20:27,2025-03-24,09:20:27,March 2025,Week 13,Travel,976.69,Travel expense,want
+2025-03-24 13:14:51,2025-03-24,13:14:51,March 2025,Week 13,Rent,961.1,Rent expense,need
+2025-03-24 23:41:49,2025-03-24,23:41:49,March 2025,Week 13,Food Delivery,90.16,Food Delivery expense,want
+2025-03-25 04:11:35,2025-03-25,04:11:35,March 2025,Week 13,Utilities,191.67,Utilities expense,need
+2025-03-25 05:30:25,2025-03-25,05:30:25,March 2025,Week 13,Groceries,397.14,Groceries expense,need
+2025-03-27 03:50:31,2025-03-27,03:50:31,March 2025,Week 13,Subscriptions,46.27,Subscriptions expense,want
+2025-03-27 05:20:44,2025-03-27,05:20:44,March 2025,Week 13,Utilities,196.36,Utilities expense,need
+2025-03-27 15:19:30,2025-03-27,15:19:30,March 2025,Week 13,Utilities,209.28,Utilities expense,need
+2025-03-27 21:58:57,2025-03-27,21:58:57,March 2025,Week 13,Travel,209.42,Travel expense,want
+2025-03-28 12:39:27,2025-03-28,12:39:27,March 2025,Week 13,Subscriptions,18.38,Subscriptions expense,want
+2025-03-28 20:42:48,2025-03-28,20:42:48,March 2025,Week 13,Food Delivery,69.81,Food Delivery expense,want
+2025-03-29 01:11:39,2025-03-29,01:11:39,March 2025,Week 13,Entertainment,43.23,Entertainment expense,want
+2025-03-29 15:10:40,2025-03-29,15:10:40,March 2025,Week 13,Food Delivery,46.22,Food Delivery expense,want
+2025-03-30 01:45:19,2025-03-30,01:45:19,March 2025,Week 13,Utilities,175.0,Utilities expense,need
+2025-03-31 14:06:33,2025-03-31,14:06:33,March 2025,Week 14,Travel,896.48,Travel expense,want
+2025-04-01 07:18:25,2025-04-01,07:18:25,April 2025,Week 14,Food Delivery,84.1,Food Delivery expense,want
+2025-04-02 05:52:36,2025-04-02,05:52:36,April 2025,Week 14,Rent,1668.66,Rent expense,need
+2025-04-02 13:08:42,2025-04-02,13:08:42,April 2025,Week 14,Travel,244.38,Travel expense,want
+2025-04-02 16:37:32,2025-04-02,16:37:32,April 2025,Week 14,Subscriptions,32.43,Subscriptions expense,want
+2025-04-03 02:11:33,2025-04-03,02:11:33,April 2025,Week 14,Groceries,388.28,Groceries expense,need
+2025-04-03 08:59:04,2025-04-03,08:59:04,April 2025,Week 14,Subscriptions,24.9,Subscriptions expense,want
+2025-04-03 09:16:53,2025-04-03,09:16:53,April 2025,Week 14,Entertainment,57.43,Entertainment expense,want
+2025-04-03 12:04:49,2025-04-03,12:04:49,April 2025,Week 14,Utilities,100.68,Utilities expense,need
+2025-04-03 15:49:10,2025-04-03,15:49:10,April 2025,Week 14,Utilities,251.13,Utilities expense,need

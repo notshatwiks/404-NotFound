@@ -3,28 +3,29 @@ import numpy as np
 import random
 from datetime import datetime, timedelta
 
-# Define categories as needs and wants
+# Define categories as needs and wants with adjusted realistic expenditure ranges
 categories = {
-    'Groceries': 'need',
-    'Rent': 'need',
-    'Utilities': 'need',
-    'Transport': 'need',
-    'Healthcare': 'need',
-    'Dining Out': 'want',
-    'Shopping': 'want',
-    'Entertainment': 'want',
-    'Travel': 'want',
-    'Food Delivery': 'want',
-    'Subscriptions': 'want'
+    'Groceries': {'type': 'need', 'min': 50, 'max': 500},
+    'Rent': {'type': 'need', 'min': 500, 'max': 2000},
+    'Utilities': {'type': 'need', 'min': 50, 'max': 300},
+    'Transport': {'type': 'need', 'min': 50, 'max': 500},
+    'Healthcare': {'type': 'need', 'min': 20, 'max': 300},
+    'Dining Out': {'type': 'want', 'min': 10, 'max': 200},
+    'Shopping': {'type': 'want', 'min': 20, 'max': 500},
+    'Entertainment': {'type': 'want', 'min': 20, 'max': 300},
+    'Travel': {'type': 'want', 'min': 50, 'max': 1000},
+    'Food Delivery': {'type': 'want', 'min': 5, 'max': 100},
+    'Subscriptions': {'type': 'want', 'min': 5, 'max': 50}
 }
 
-# Function to generate a single transaction
+# Function to generate a single transaction with more realistic amounts
 def generate_transaction(start_date, end_date):
     date = start_date + timedelta(seconds=random.randint(0, int((end_date - start_date).total_seconds())))
     category = random.choice(list(categories.keys()))
-    amount = round(random.uniform(100, 5000), 2)
+    category_info = categories[category]
+    amount = round(random.uniform(category_info['min'], category_info['max']), 2)
     description = f"{category} expense"
-    type_of_expense = categories[category]
+    type_of_expense = category_info['type']
     return {
         'datetime': date,
         'date': date.strftime('%Y-%m-%d'),
@@ -47,5 +48,5 @@ df = pd.DataFrame(transactions)
 df.sort_values(by="datetime", inplace=True)
 
 # Save the data
-df.to_csv("mock_transactions_detailed.csv", index=False)
-print("✅ Dataset generated: mock_transactions_detailed.csv")
+df.to_csv("mock_transactions_realistic.csv", index=False)
+print("✅ Dataset generated: mock_transactions_realistic.csv")

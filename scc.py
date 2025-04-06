@@ -43,15 +43,11 @@ if "splash_shown" not in st.session_state:
     st.markdown(splash_css, unsafe_allow_html=True)  # Apply CSS styles
 
     splash = st.empty()
-
-<<<<<<< HEAD
     # Load and Display Responsive Image
     image_path = "splash.png"  # Replace with your actual image file
     splash.image(image_path)
-=======
     # Display the splash screen image using st.image and set it to the center
     splash.image("splash.png", width=800)
->>>>>>> 30e9740f8952811078b549f0a9f47ec23fcc44c8
 
     # Use a progress bar instead of freezing
     progress_bar = st.progress(0)
@@ -174,29 +170,6 @@ st.sidebar.button("Logout", on_click=lambda: st.session_state.update({"authentic
 #st.title("💰 AI Finance Assistant Dashboard")
 #st.write("This is the main app content. You must be logged in to access this page.")
 
-def pre_populate_badges_for_previous_months(df, budget):
-    # Calculate the months to pre-populate (e.g., all months prior to the current month)
-    months = df['datetime'].dt.to_period('M').unique()
-    today = datetime.today().date()
-
-    badges_earned_for_previous_months = []
-
-    for month in months:
-        if month < pd.to_datetime(today.replace(day=1)).to_period('M'):  # if the month is before this month
-            # Filter data for this month
-            monthly_data = df[df['datetime'].dt.to_period('M') == month]
-            total_spent = monthly_data["amount"].sum()
-            total_saved = budget - total_spent
-
-            # Calculate badges for the month
-            badge_system = BadgeSystem()
-            earned_badges = badge_system.calculate_badges(total_saved)
-
-            for badge in earned_badges:
-                badges_earned_for_previous_months.append(f"🏅 {badge['name']} for {month}")
-
-    return badges_earned_for_previous_months
-
 
 # -------------------------------
 # Helper Functions
@@ -218,10 +191,10 @@ def get_gamified_nudges(df, budget):
             badge_system = BadgeSystem()
             earned_badges = badge_system.calculate_badges(total_saved)
 
-            show_completion_popup(f"🎉 Month End Summary: You saved ₹{total_saved:.0f}!", duration=4)
+            show_completion_popup(f"🎉 Month End Summary: You saved ₹{total_saved:.0f}!")
 
             for badge in earned_badges:
-                show_completion_popup(f"🏅 {badge['name']}", image_path=badge['image'], duration=3)
+                show_completion_popup(f"🏅 {badge['image']}", image_path=badge['image'])
                 badges_earned.append(f"🏅 {badge['name']}")
 
             progress, next_badge = badge_system.get_progress(total_saved)
@@ -286,18 +259,14 @@ def chat_with_bot(query, df):
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv("mock_transactions_detailed.csv")
+    df = pd.read_csv("mock_transactions_realistic.csv")
     df['datetime'] = pd.to_datetime(df['datetime'])
     return df
 
 df = load_data()
     # Set current month for global use
 current_month = pd.Timestamp.now().strftime('%Y-%m')
-badges_from_previous_months = pre_populate_badges_for_previous_months(df, st.session_state.budget)
 
-# Show these badges in the app
-for badge in badges_from_previous_months:
-    st.success(badge)
 
 # -------------------------------
 # Sidebar Controls
@@ -610,13 +579,13 @@ elif selected_page == "📂 Spending by Category":
 # -------------------------------
 elif selected_page == "🏆 Achievement Nudges":
     st.subheader("🏆 Achievement Nudges")
-    for badge in badges_from_previous_months:
-        st.success(badge)
+    
+        
     df_this_month = filtered_df[filtered_df["datetime"].dt.to_period('M').astype(str) == current_month]
     badges = get_gamified_nudges(df_this_month, budget)
     for badge in badges:
         st.success(badge)
-
+    
     # Gamified Savings Badge
     def get_savings_badge(savings):
         if 1 <= savings <= 100:
@@ -635,7 +604,6 @@ elif selected_page == "🏆 Achievement Nudges":
     badge = get_savings_badge(savings)
     if badge:
         st.success(f"🏆 {badge}")
-
 # -------------------------------
 # Budget Warnings
 # -------------------------------
