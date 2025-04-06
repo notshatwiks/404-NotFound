@@ -16,6 +16,15 @@ mode = "sequential"
 task = "shell.exec"
 args = "streamlit run scc.py --server.address=0.0.0.0 --server.port=5000"
 
+[[workflows.workflow]]
+name = "Generate Dataset"
+author = 41168791
+mode = "sequential"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "python generate_dataset.py"
+
 [[ports]]
 localPort = 5000
 externalPort = 80
