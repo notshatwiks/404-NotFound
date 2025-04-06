@@ -13,19 +13,12 @@ from gamification import BadgeSystem
 from popup import show_completion_popup
 from datetime import timedelta
 
-# ✅ Move this to the top, before any other `st.` functions
-
+import streamlit as st
+import time
 
 st.set_page_config(page_title="AI Finance Assistant", layout="wide")
-import streamlit as st
-import time
 
 # Check if splash screen has been shown
-# Check if splash screen has been shown
-
-
-import streamlit as st
-import time
 
 # Custom CSS to make the splash image full screen
 splash_css = """
